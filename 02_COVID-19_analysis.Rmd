@@ -1,0 +1,66 @@
+---
+title: "COVID-19_analysis"
+output: html_notebook
+---
+
+# Introduction
+Now we will expand on the lessons from the first part of the workshop and apply the skills we learned to the recent COVID-19 data which has been curated by the Johns Hopkins University Centor fo Systems Science and Engineering (CSSE). We will recreate some of the data they made with their [Tableau dashboard](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) from the [raw data available on Google Sheets](https://docs.google.com/spreadsheets/d/1UF2pSkFTURko2OvfHWWlFpDFAr1UxCBA4JLwlSP6KFo/edit?usp=sharing) or [GitHub](https://github.com/CSSEGISandData/COVID-19).  For the purposes of this workshop I took the data from 2020-02-10 and cleaned it (the code used to clean the data is in the 03.Rmd file) so we could focus on learning the concepts.
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(ggsci)
+```
+
+```{r message=FALSE, warning=FALSE}
+data <- read_csv("COVID19.csv")
+
+data
+```
+
+```{r message=FALSE, warning=FALSE}
+data %>% 
+  glimpse()
+
+data %>% 
+  dim()
+```
+
+Let's try to see if we can aggregate the data similar to the Tableau dashboard.  We can use the `group_by()`, `summarize()`, and `arrange()` functions to add up all the confirmed cases by country.
+![](https://i.imgur.com/bvK0Y6g.png)
+```{r}
+data %>% 
+  group_by(Country) %>% 
+  summarize(total = sum(Confirmed_no)) %>% 
+  arrange(desc(total))
+```
+
+
+
+![](https://i.imgur.com/dWvp7sE.png)  
+
+Let's try to visualize the data!  First, we will have to aggregate the data using `group_by()` and `summarize()`.
+
+```{r}
+data %>% 
+  group_by(Location, Date) %>% 
+  summarize(total = sum(Confirmed_no)) %>% 
+  ggplot(aes(x = Date, y = total, color = Location)) +
+  geom_point(size = 2) +
+  geom_line(size = 1) +
+  theme_bw() +
+  scale_color_nejm()
+``` 
+
+
+
+
+
+Which Province in China has the most confirmed cases on 2020-02-10?  
+```{r}
+data 
+  
+```
+
+
+
+

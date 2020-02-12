@@ -1,0 +1,138 @@
+---
+title: "Intro to R"
+output: html_notebook
+---
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(lubridate)
+library(googlesheets4)
+library(ggsci)
+```
+
+
+# Import Google sheets
+```{r}
+# Con <- read_sheet("1UF2pSkFTURko2OvfHWWlFpDFAr1UxCBA4JLwlSP6KFo", sheet = "Confirmed")
+# Rec <- read_sheet("1UF2pSkFTURko2OvfHWWlFpDFAr1UxCBA4JLwlSP6KFo", sheet = "Recovered")
+# Death <- read_sheet("1UF2pSkFTURko2OvfHWWlFpDFAr1UxCBA4JLwlSP6KFo", sheet = "Death")
+```
+
+# Data cleaning
+```{r}
+# Con_tidy <- Con %>% 
+#   pivot_longer(cols = -(`Province/State`:Long), 
+#                names_to = "Date", 
+#                values_to = "Confirmed_no") %>% 
+#   mutate(Confirmed_no = if_else(is.na(Confirmed_no), 0, Confirmed_no),
+#          clean_Date = mdy_hm(Date),
+#          Location = case_when(`Country/Region` == "Mainland China" ~ "China",
+#                               TRUE ~ "Other") %>% as.factor(),
+#          date_only = as_date(clean_Date)) %>% 
+#   mutate_at(vars(clean_Date), funs(year, month, day)) %>% 
+#   group_by(date_only) %>% 
+#   filter(clean_Date == max(clean_Date)) %>% 
+#   rename(Province = `Province/State`, Country = `Country/Region`) %>% 
+#   select(Date = date_only,year, month, day, Province, Country,Location, Confirmed_no, Lat,Long)
+#   
+# Con_tidy
+```
+
+# Save tidy data
+```{r}
+# write_csv(Con_tidy, "COVID19.csv")
+```
+
+
+```{r}
+data <- read_csv("COVID19.csv")
+
+data
+```
+
+
+```{r}
+data %>% 
+  group_by(Country) %>% 
+  summarize(total_count = sum(Confirmed_no)) %>% 
+  arrange(desc(total_count))
+```
+
+```{r}
+Con_tidy %>% 
+  filter(Country == "Mainland China") %>% 
+  # filter(!Province == "Hubei") %>% 
+  ggplot(aes(x = Date, y = Confirmed_no, color = Province)) +
+  geom_point() +
+  geom_line()
+```
+
+```{r}
+data %>% 
+  group_by(Province) %>% 
+  summarize(Confirmed_cases = sum(Confirmed_no)) %>% 
+  arrange(desc(Confirmed_cases))
+```
+
+
+```{r}
+data %>% 
+  group_by(Location, Date) %>% 
+  summarize(Confirmed_total = sum(Confirmed_no)) %>% 
+  ggplot(aes(x = Date, y = Confirmed_total, color = Location )) +
+    geom_point() +
+    geom_line() +
+    theme_dark() +
+    labs(x = "Date", y = "Confirmed Cases",
+       title = "2019 nCOV Outbreak",
+       caption = "Data from JHUCCSE")
+```
+
+
+```{r}
+data %>% 
+  group_by(Country) %>% 
+  summarize(total = sum(Confirmed_no)) %>% 
+  arrange(desc(total)) %>% 
+  mutate(all_total = sum(total)) %>% 
+  ggplot(aes(x = fct_reorder(Country,total), y = total, fill = Country)) +
+  geom_col() +
+  coord_flip()
+```
+
+
+
+```{r}
+plot1 <- data %>% 
+  filter(
+         Date == "2020-02-10",
+         Location == "China",
+         Confirmed_no > 500
+         ) %>% 
+  group_by(Province) %>% 
+  summarize(Province_total = sum(Confirmed_no)) %>% 
+  arrange(desc(Province_total)) %>% 
+  ggplot(aes(x = fct_reorder(Province,Province_total), y = Province_total, fill = Province)) +
+  geom_col() +
+  coord_flip() +
+  theme_bw() +
+  scale_fill_npg() +
+  labs(title = "COVID-19 Cases in Mainland China",
+       y = "Confirmed Cases",
+       x = "Province",
+       caption = "Data from 2020-02-10 JHU CSSE") +
+  guides(fill = FALSE)
+
+
+plot1
+
+
+# ggsave(plot = plot1, "2020-02-10_COVID-2019_provinces.png", dpi = 600, width = 4, units = "in")
+```
+
+
+
+```{r}
+
+```
+

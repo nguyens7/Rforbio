@@ -1,0 +1,1513 @@
+Date,year,month,day,Province,Country,Location,Confirmed_no,Lat,Long
+2020-01-21,2020,1,21,Anhui,Mainland China,China,0,31.82571,117.2264
+2020-01-22,2020,1,22,Anhui,Mainland China,China,1,31.82571,117.2264
+2020-01-23,2020,1,23,Anhui,Mainland China,China,9,31.82571,117.2264
+2020-01-24,2020,1,24,Anhui,Mainland China,China,15,31.82571,117.2264
+2020-01-25,2020,1,25,Anhui,Mainland China,China,60,31.82571,117.2264
+2020-01-26,2020,1,26,Anhui,Mainland China,China,70,31.82571,117.2264
+2020-01-27,2020,1,27,Anhui,Mainland China,China,106,31.82571,117.2264
+2020-01-28,2020,1,28,Anhui,Mainland China,China,152,31.82571,117.2264
+2020-01-29,2020,1,29,Anhui,Mainland China,China,200,31.82571,117.2264
+2020-01-30,2020,1,30,Anhui,Mainland China,China,200,31.82571,117.2264
+2020-01-31,2020,1,31,Anhui,Mainland China,China,237,31.82571,117.2264
+2020-02-01,2020,2,1,Anhui,Mainland China,China,297,31.82571,117.2264
+2020-02-02,2020,2,2,Anhui,Mainland China,China,408,31.82571,117.2264
+2020-02-03,2020,2,3,Anhui,Mainland China,China,480,31.82571,117.2264
+2020-02-04,2020,2,4,Anhui,Mainland China,China,530,31.82571,117.2264
+2020-02-05,2020,2,5,Anhui,Mainland China,China,591,31.82571,117.2264
+2020-02-06,2020,2,6,Anhui,Mainland China,China,591,31.82571,117.2264
+2020-02-07,2020,2,7,Anhui,Mainland China,China,733,31.82571,117.2264
+2020-02-08,2020,2,8,Anhui,Mainland China,China,779,31.82571,117.2264
+2020-02-09,2020,2,9,Anhui,Mainland China,China,830,31.82571,117.2264
+2020-02-10,2020,2,10,Anhui,Mainland China,China,830,31.82571,117.2264
+2020-01-21,2020,1,21,Beijing,Mainland China,China,10,40.18238,116.4142
+2020-01-22,2020,1,22,Beijing,Mainland China,China,14,40.18238,116.4142
+2020-01-23,2020,1,23,Beijing,Mainland China,China,22,40.18238,116.4142
+2020-01-24,2020,1,24,Beijing,Mainland China,China,36,40.18238,116.4142
+2020-01-25,2020,1,25,Beijing,Mainland China,China,51,40.18238,116.4142
+2020-01-26,2020,1,26,Beijing,Mainland China,China,68,40.18238,116.4142
+2020-01-27,2020,1,27,Beijing,Mainland China,China,80,40.18238,116.4142
+2020-01-28,2020,1,28,Beijing,Mainland China,China,91,40.18238,116.4142
+2020-01-29,2020,1,29,Beijing,Mainland China,China,111,40.18238,116.4142
+2020-01-30,2020,1,30,Beijing,Mainland China,China,114,40.18238,116.4142
+2020-01-31,2020,1,31,Beijing,Mainland China,China,139,40.18238,116.4142
+2020-02-01,2020,2,1,Beijing,Mainland China,China,168,40.18238,116.4142
+2020-02-02,2020,2,2,Beijing,Mainland China,China,191,40.18238,116.4142
+2020-02-03,2020,2,3,Beijing,Mainland China,China,212,40.18238,116.4142
+2020-02-04,2020,2,4,Beijing,Mainland China,China,228,40.18238,116.4142
+2020-02-05,2020,2,5,Beijing,Mainland China,China,274,40.18238,116.4142
+2020-02-06,2020,2,6,Beijing,Mainland China,China,274,40.18238,116.4142
+2020-02-07,2020,2,7,Beijing,Mainland China,China,315,40.18238,116.4142
+2020-02-08,2020,2,8,Beijing,Mainland China,China,326,40.18238,116.4142
+2020-02-09,2020,2,9,Beijing,Mainland China,China,337,40.18238,116.4142
+2020-02-10,2020,2,10,Beijing,Mainland China,China,337,40.18238,116.4142
+2020-01-21,2020,1,21,Chongqing,Mainland China,China,5,30.05718,107.874
+2020-01-22,2020,1,22,Chongqing,Mainland China,China,6,30.05718,107.874
+2020-01-23,2020,1,23,Chongqing,Mainland China,China,9,30.05718,107.874
+2020-01-24,2020,1,24,Chongqing,Mainland China,China,27,30.05718,107.874
+2020-01-25,2020,1,25,Chongqing,Mainland China,China,75,30.05718,107.874
+2020-01-26,2020,1,26,Chongqing,Mainland China,China,110,30.05718,107.874
+2020-01-27,2020,1,27,Chongqing,Mainland China,China,132,30.05718,107.874
+2020-01-28,2020,1,28,Chongqing,Mainland China,China,147,30.05718,107.874
+2020-01-29,2020,1,29,Chongqing,Mainland China,China,165,30.05718,107.874
+2020-01-30,2020,1,30,Chongqing,Mainland China,China,182,30.05718,107.874
+2020-01-31,2020,1,31,Chongqing,Mainland China,China,211,30.05718,107.874
+2020-02-01,2020,2,1,Chongqing,Mainland China,China,247,30.05718,107.874
+2020-02-02,2020,2,2,Chongqing,Mainland China,China,300,30.05718,107.874
+2020-02-03,2020,2,3,Chongqing,Mainland China,China,337,30.05718,107.874
+2020-02-04,2020,2,4,Chongqing,Mainland China,China,366,30.05718,107.874
+2020-02-05,2020,2,5,Chongqing,Mainland China,China,389,30.05718,107.874
+2020-02-06,2020,2,6,Chongqing,Mainland China,China,400,30.05718,107.874
+2020-02-07,2020,2,7,Chongqing,Mainland China,China,426,30.05718,107.874
+2020-02-08,2020,2,8,Chongqing,Mainland China,China,446,30.05718,107.874
+2020-02-09,2020,2,9,Chongqing,Mainland China,China,468,30.05718,107.874
+2020-02-10,2020,2,10,Chongqing,Mainland China,China,473,30.05718,107.874
+2020-01-21,2020,1,21,Fujian,Mainland China,China,0,26.07783,117.9895
+2020-01-22,2020,1,22,Fujian,Mainland China,China,1,26.07783,117.9895
+2020-01-23,2020,1,23,Fujian,Mainland China,China,5,26.07783,117.9895
+2020-01-24,2020,1,24,Fujian,Mainland China,China,10,26.07783,117.9895
+2020-01-25,2020,1,25,Fujian,Mainland China,China,18,26.07783,117.9895
+2020-01-26,2020,1,26,Fujian,Mainland China,China,35,26.07783,117.9895
+2020-01-27,2020,1,27,Fujian,Mainland China,China,59,26.07783,117.9895
+2020-01-28,2020,1,28,Fujian,Mainland China,China,82,26.07783,117.9895
+2020-01-29,2020,1,29,Fujian,Mainland China,China,101,26.07783,117.9895
+2020-01-30,2020,1,30,Fujian,Mainland China,China,101,26.07783,117.9895
+2020-01-31,2020,1,31,Fujian,Mainland China,China,120,26.07783,117.9895
+2020-02-01,2020,2,1,Fujian,Mainland China,China,144,26.07783,117.9895
+2020-02-02,2020,2,2,Fujian,Mainland China,China,159,26.07783,117.9895
+2020-02-03,2020,2,3,Fujian,Mainland China,China,179,26.07783,117.9895
+2020-02-04,2020,2,4,Fujian,Mainland China,China,194,26.07783,117.9895
+2020-02-05,2020,2,5,Fujian,Mainland China,China,215,26.07783,117.9895
+2020-02-06,2020,2,6,Fujian,Mainland China,China,215,26.07783,117.9895
+2020-02-07,2020,2,7,Fujian,Mainland China,China,239,26.07783,117.9895
+2020-02-08,2020,2,8,Fujian,Mainland China,China,250,26.07783,117.9895
+2020-02-09,2020,2,9,Fujian,Mainland China,China,261,26.07783,117.9895
+2020-02-10,2020,2,10,Fujian,Mainland China,China,261,26.07783,117.9895
+2020-01-21,2020,1,21,Gansu,Mainland China,China,0,36.0611,103.8343
+2020-01-22,2020,1,22,Gansu,Mainland China,China,0,36.0611,103.8343
+2020-01-23,2020,1,23,Gansu,Mainland China,China,2,36.0611,103.8343
+2020-01-24,2020,1,24,Gansu,Mainland China,China,2,36.0611,103.8343
+2020-01-25,2020,1,25,Gansu,Mainland China,China,7,36.0611,103.8343
+2020-01-26,2020,1,26,Gansu,Mainland China,China,14,36.0611,103.8343
+2020-01-27,2020,1,27,Gansu,Mainland China,China,19,36.0611,103.8343
+2020-01-28,2020,1,28,Gansu,Mainland China,China,24,36.0611,103.8343
+2020-01-29,2020,1,29,Gansu,Mainland China,China,26,36.0611,103.8343
+2020-01-30,2020,1,30,Gansu,Mainland China,China,26,36.0611,103.8343
+2020-01-31,2020,1,31,Gansu,Mainland China,China,29,36.0611,103.8343
+2020-02-01,2020,2,1,Gansu,Mainland China,China,35,36.0611,103.8343
+2020-02-02,2020,2,2,Gansu,Mainland China,China,51,36.0611,103.8343
+2020-02-03,2020,2,3,Gansu,Mainland China,China,55,36.0611,103.8343
+2020-02-04,2020,2,4,Gansu,Mainland China,China,57,36.0611,103.8343
+2020-02-05,2020,2,5,Gansu,Mainland China,China,62,36.0611,103.8343
+2020-02-06,2020,2,6,Gansu,Mainland China,China,62,36.0611,103.8343
+2020-02-07,2020,2,7,Gansu,Mainland China,China,71,36.0611,103.8343
+2020-02-08,2020,2,8,Gansu,Mainland China,China,79,36.0611,103.8343
+2020-02-09,2020,2,9,Gansu,Mainland China,China,83,36.0611,103.8343
+2020-02-10,2020,2,10,Gansu,Mainland China,China,83,36.0611,103.8343
+2020-01-21,2020,1,21,Guangdong,Mainland China,China,17,23.33841,113.422
+2020-01-22,2020,1,22,Guangdong,Mainland China,China,26,23.33841,113.422
+2020-01-23,2020,1,23,Guangdong,Mainland China,China,32,23.33841,113.422
+2020-01-24,2020,1,24,Guangdong,Mainland China,China,53,23.33841,113.422
+2020-01-25,2020,1,25,Guangdong,Mainland China,China,98,23.33841,113.422
+2020-01-26,2020,1,26,Guangdong,Mainland China,China,146,23.33841,113.422
+2020-01-27,2020,1,27,Guangdong,Mainland China,China,151,23.33841,113.422
+2020-01-28,2020,1,28,Guangdong,Mainland China,China,241,23.33841,113.422
+2020-01-29,2020,1,29,Guangdong,Mainland China,China,311,23.33841,113.422
+2020-01-30,2020,1,30,Guangdong,Mainland China,China,354,23.33841,113.422
+2020-01-31,2020,1,31,Guangdong,Mainland China,China,436,23.33841,113.422
+2020-02-01,2020,2,1,Guangdong,Mainland China,China,535,23.33841,113.422
+2020-02-02,2020,2,2,Guangdong,Mainland China,China,683,23.33841,113.422
+2020-02-03,2020,2,3,Guangdong,Mainland China,China,725,23.33841,113.422
+2020-02-04,2020,2,4,Guangdong,Mainland China,China,870,23.33841,113.422
+2020-02-05,2020,2,5,Guangdong,Mainland China,China,944,23.33841,113.422
+2020-02-06,2020,2,6,Guangdong,Mainland China,China,970,23.33841,113.422
+2020-02-07,2020,2,7,Guangdong,Mainland China,China,1075,23.33841,113.422
+2020-02-08,2020,2,8,Guangdong,Mainland China,China,1120,23.33841,113.422
+2020-02-09,2020,2,9,Guangdong,Mainland China,China,1151,23.33841,113.422
+2020-02-10,2020,2,10,Guangdong,Mainland China,China,1159,23.33841,113.422
+2020-01-21,2020,1,21,Guangxi,Mainland China,China,0,23.82908,108.7881
+2020-01-22,2020,1,22,Guangxi,Mainland China,China,2,23.82908,108.7881
+2020-01-23,2020,1,23,Guangxi,Mainland China,China,5,23.82908,108.7881
+2020-01-24,2020,1,24,Guangxi,Mainland China,China,23,23.82908,108.7881
+2020-01-25,2020,1,25,Guangxi,Mainland China,China,33,23.82908,108.7881
+2020-01-26,2020,1,26,Guangxi,Mainland China,China,46,23.82908,108.7881
+2020-01-27,2020,1,27,Guangxi,Mainland China,China,51,23.82908,108.7881
+2020-01-28,2020,1,28,Guangxi,Mainland China,China,58,23.82908,108.7881
+2020-01-29,2020,1,29,Guangxi,Mainland China,China,78,23.82908,108.7881
+2020-01-30,2020,1,30,Guangxi,Mainland China,China,78,23.82908,108.7881
+2020-01-31,2020,1,31,Guangxi,Mainland China,China,87,23.82908,108.7881
+2020-02-01,2020,2,1,Guangxi,Mainland China,China,100,23.82908,108.7881
+2020-02-02,2020,2,2,Guangxi,Mainland China,China,127,23.82908,108.7881
+2020-02-03,2020,2,3,Guangxi,Mainland China,China,139,23.82908,108.7881
+2020-02-04,2020,2,4,Guangxi,Mainland China,China,150,23.82908,108.7881
+2020-02-05,2020,2,5,Guangxi,Mainland China,China,168,23.82908,108.7881
+2020-02-06,2020,2,6,Guangxi,Mainland China,China,168,23.82908,108.7881
+2020-02-07,2020,2,7,Guangxi,Mainland China,China,183,23.82908,108.7881
+2020-02-08,2020,2,8,Guangxi,Mainland China,China,195,23.82908,108.7881
+2020-02-09,2020,2,9,Guangxi,Mainland China,China,210,23.82908,108.7881
+2020-02-10,2020,2,10,Guangxi,Mainland China,China,210,23.82908,108.7881
+2020-01-21,2020,1,21,Guizhou,Mainland China,China,0,26.81536,106.8748
+2020-01-22,2020,1,22,Guizhou,Mainland China,China,1,26.81536,106.8748
+2020-01-23,2020,1,23,Guizhou,Mainland China,China,3,26.81536,106.8748
+2020-01-24,2020,1,24,Guizhou,Mainland China,China,3,26.81536,106.8748
+2020-01-25,2020,1,25,Guizhou,Mainland China,China,5,26.81536,106.8748
+2020-01-26,2020,1,26,Guizhou,Mainland China,China,7,26.81536,106.8748
+2020-01-27,2020,1,27,Guizhou,Mainland China,China,9,26.81536,106.8748
+2020-01-28,2020,1,28,Guizhou,Mainland China,China,9,26.81536,106.8748
+2020-01-29,2020,1,29,Guizhou,Mainland China,China,12,26.81536,106.8748
+2020-01-30,2020,1,30,Guizhou,Mainland China,China,12,26.81536,106.8748
+2020-01-31,2020,1,31,Guizhou,Mainland China,China,29,26.81536,106.8748
+2020-02-01,2020,2,1,Guizhou,Mainland China,China,29,26.81536,106.8748
+2020-02-02,2020,2,2,Guizhou,Mainland China,China,46,26.81536,106.8748
+2020-02-03,2020,2,3,Guizhou,Mainland China,China,56,26.81536,106.8748
+2020-02-04,2020,2,4,Guizhou,Mainland China,China,64,26.81536,106.8748
+2020-02-05,2020,2,5,Guizhou,Mainland China,China,69,26.81536,106.8748
+2020-02-06,2020,2,6,Guizhou,Mainland China,China,71,26.81536,106.8748
+2020-02-07,2020,2,7,Guizhou,Mainland China,China,89,26.81536,106.8748
+2020-02-08,2020,2,8,Guizhou,Mainland China,China,96,26.81536,106.8748
+2020-02-09,2020,2,9,Guizhou,Mainland China,China,109,26.81536,106.8748
+2020-02-10,2020,2,10,Guizhou,Mainland China,China,109,26.81536,106.8748
+2020-01-21,2020,1,21,Hainan,Mainland China,China,0,19.19673,109.7455
+2020-01-22,2020,1,22,Hainan,Mainland China,China,4,19.19673,109.7455
+2020-01-23,2020,1,23,Hainan,Mainland China,China,5,19.19673,109.7455
+2020-01-24,2020,1,24,Hainan,Mainland China,China,8,19.19673,109.7455
+2020-01-25,2020,1,25,Hainan,Mainland China,China,19,19.19673,109.7455
+2020-01-26,2020,1,26,Hainan,Mainland China,China,22,19.19673,109.7455
+2020-01-27,2020,1,27,Hainan,Mainland China,China,33,19.19673,109.7455
+2020-01-28,2020,1,28,Hainan,Mainland China,China,43,19.19673,109.7455
+2020-01-29,2020,1,29,Hainan,Mainland China,China,43,19.19673,109.7455
+2020-01-30,2020,1,30,Hainan,Mainland China,China,46,19.19673,109.7455
+2020-01-31,2020,1,31,Hainan,Mainland China,China,52,19.19673,109.7455
+2020-02-01,2020,2,1,Hainan,Mainland China,China,62,19.19673,109.7455
+2020-02-02,2020,2,2,Hainan,Mainland China,China,71,19.19673,109.7455
+2020-02-03,2020,2,3,Hainan,Mainland China,China,79,19.19673,109.7455
+2020-02-04,2020,2,4,Hainan,Mainland China,China,91,19.19673,109.7455
+2020-02-05,2020,2,5,Hainan,Mainland China,China,100,19.19673,109.7455
+2020-02-06,2020,2,6,Hainan,Mainland China,China,106,19.19673,109.7455
+2020-02-07,2020,2,7,Hainan,Mainland China,China,124,19.19673,109.7455
+2020-02-08,2020,2,8,Hainan,Mainland China,China,128,19.19673,109.7455
+2020-02-09,2020,2,9,Hainan,Mainland China,China,136,19.19673,109.7455
+2020-02-10,2020,2,10,Hainan,Mainland China,China,138,19.19673,109.7455
+2020-01-21,2020,1,21,Hebei,Mainland China,China,0,38.0428,114.5149
+2020-01-22,2020,1,22,Hebei,Mainland China,China,1,38.0428,114.5149
+2020-01-23,2020,1,23,Hebei,Mainland China,China,1,38.0428,114.5149
+2020-01-24,2020,1,24,Hebei,Mainland China,China,2,38.0428,114.5149
+2020-01-25,2020,1,25,Hebei,Mainland China,China,13,38.0428,114.5149
+2020-01-26,2020,1,26,Hebei,Mainland China,China,18,38.0428,114.5149
+2020-01-27,2020,1,27,Hebei,Mainland China,China,33,38.0428,114.5149
+2020-01-28,2020,1,28,Hebei,Mainland China,China,48,38.0428,114.5149
+2020-01-29,2020,1,29,Hebei,Mainland China,China,65,38.0428,114.5149
+2020-01-30,2020,1,30,Hebei,Mainland China,China,65,38.0428,114.5149
+2020-01-31,2020,1,31,Hebei,Mainland China,China,82,38.0428,114.5149
+2020-02-01,2020,2,1,Hebei,Mainland China,China,96,38.0428,114.5149
+2020-02-02,2020,2,2,Hebei,Mainland China,China,113,38.0428,114.5149
+2020-02-03,2020,2,3,Hebei,Mainland China,China,126,38.0428,114.5149
+2020-02-04,2020,2,4,Hebei,Mainland China,China,135,38.0428,114.5149
+2020-02-05,2020,2,5,Hebei,Mainland China,China,157,38.0428,114.5149
+2020-02-06,2020,2,6,Hebei,Mainland China,China,157,38.0428,114.5149
+2020-02-07,2020,2,7,Hebei,Mainland China,China,195,38.0428,114.5149
+2020-02-08,2020,2,8,Hebei,Mainland China,China,206,38.0428,114.5149
+2020-02-09,2020,2,9,Hebei,Mainland China,China,218,38.0428,114.5149
+2020-02-10,2020,2,10,Hebei,Mainland China,China,218,38.0428,114.5149
+2020-01-21,2020,1,21,Heilongjiang,Mainland China,China,0,47.862,127.76220000000001
+2020-01-22,2020,1,22,Heilongjiang,Mainland China,China,0,47.862,127.76220000000001
+2020-01-23,2020,1,23,Heilongjiang,Mainland China,China,2,47.862,127.76220000000001
+2020-01-24,2020,1,24,Heilongjiang,Mainland China,China,4,47.862,127.76220000000001
+2020-01-25,2020,1,25,Heilongjiang,Mainland China,China,15,47.862,127.76220000000001
+2020-01-26,2020,1,26,Heilongjiang,Mainland China,China,21,47.862,127.76220000000001
+2020-01-27,2020,1,27,Heilongjiang,Mainland China,China,30,47.862,127.76220000000001
+2020-01-28,2020,1,28,Heilongjiang,Mainland China,China,37,47.862,127.76220000000001
+2020-01-29,2020,1,29,Heilongjiang,Mainland China,China,43,47.862,127.76220000000001
+2020-01-30,2020,1,30,Heilongjiang,Mainland China,China,44,47.862,127.76220000000001
+2020-01-31,2020,1,31,Heilongjiang,Mainland China,China,59,47.862,127.76220000000001
+2020-02-01,2020,2,1,Heilongjiang,Mainland China,China,80,47.862,127.76220000000001
+2020-02-02,2020,2,2,Heilongjiang,Mainland China,China,95,47.862,127.76220000000001
+2020-02-03,2020,2,3,Heilongjiang,Mainland China,China,155,47.862,127.76220000000001
+2020-02-04,2020,2,4,Heilongjiang,Mainland China,China,190,47.862,127.76220000000001
+2020-02-05,2020,2,5,Heilongjiang,Mainland China,China,227,47.862,127.76220000000001
+2020-02-06,2020,2,6,Heilongjiang,Mainland China,China,227,47.862,127.76220000000001
+2020-02-07,2020,2,7,Heilongjiang,Mainland China,China,295,47.862,127.76220000000001
+2020-02-08,2020,2,8,Heilongjiang,Mainland China,China,307,47.862,127.76220000000001
+2020-02-09,2020,2,9,Heilongjiang,Mainland China,China,331,47.862,127.76220000000001
+2020-02-10,2020,2,10,Heilongjiang,Mainland China,China,331,47.862,127.76220000000001
+2020-01-21,2020,1,21,Henan,Mainland China,China,0,33.88202,113.614
+2020-01-22,2020,1,22,Henan,Mainland China,China,5,33.88202,113.614
+2020-01-23,2020,1,23,Henan,Mainland China,China,5,33.88202,113.614
+2020-01-24,2020,1,24,Henan,Mainland China,China,9,33.88202,113.614
+2020-01-25,2020,1,25,Henan,Mainland China,China,83,33.88202,113.614
+2020-01-26,2020,1,26,Henan,Mainland China,China,128,33.88202,113.614
+2020-01-27,2020,1,27,Henan,Mainland China,China,168,33.88202,113.614
+2020-01-28,2020,1,28,Henan,Mainland China,China,206,33.88202,113.614
+2020-01-29,2020,1,29,Henan,Mainland China,China,278,33.88202,113.614
+2020-01-30,2020,1,30,Henan,Mainland China,China,278,33.88202,113.614
+2020-01-31,2020,1,31,Henan,Mainland China,China,352,33.88202,113.614
+2020-02-01,2020,2,1,Henan,Mainland China,China,422,33.88202,113.614
+2020-02-02,2020,2,2,Henan,Mainland China,China,566,33.88202,113.614
+2020-02-03,2020,2,3,Henan,Mainland China,China,675,33.88202,113.614
+2020-02-04,2020,2,4,Henan,Mainland China,China,764,33.88202,113.614
+2020-02-05,2020,2,5,Henan,Mainland China,China,851,33.88202,113.614
+2020-02-06,2020,2,6,Henan,Mainland China,China,851,33.88202,113.614
+2020-02-07,2020,2,7,Henan,Mainland China,China,981,33.88202,113.614
+2020-02-08,2020,2,8,Henan,Mainland China,China,1033,33.88202,113.614
+2020-02-09,2020,2,9,Henan,Mainland China,China,1073,33.88202,113.614
+2020-02-10,2020,2,10,Henan,Mainland China,China,1073,33.88202,113.614
+2020-01-21,2020,1,21,Hubei,Mainland China,China,270,30.97564,112.2707
+2020-01-22,2020,1,22,Hubei,Mainland China,China,444,30.97564,112.2707
+2020-01-23,2020,1,23,Hubei,Mainland China,China,444,30.97564,112.2707
+2020-01-24,2020,1,24,Hubei,Mainland China,China,549,30.97564,112.2707
+2020-01-25,2020,1,25,Hubei,Mainland China,China,1052,30.97564,112.2707
+2020-01-26,2020,1,26,Hubei,Mainland China,China,1423,30.97564,112.2707
+2020-01-27,2020,1,27,Hubei,Mainland China,China,2714,30.97564,112.2707
+2020-01-28,2020,1,28,Hubei,Mainland China,China,3554,30.97564,112.2707
+2020-01-29,2020,1,29,Hubei,Mainland China,China,4586,30.97564,112.2707
+2020-01-30,2020,1,30,Hubei,Mainland China,China,4903,30.97564,112.2707
+2020-01-31,2020,1,31,Hubei,Mainland China,China,5806,30.97564,112.2707
+2020-02-01,2020,2,1,Hubei,Mainland China,China,7153,30.97564,112.2707
+2020-02-02,2020,2,2,Hubei,Mainland China,China,11177,30.97564,112.2707
+2020-02-03,2020,2,3,Hubei,Mainland China,China,13522,30.97564,112.2707
+2020-02-04,2020,2,4,Hubei,Mainland China,China,16678,30.97564,112.2707
+2020-02-05,2020,2,5,Hubei,Mainland China,China,19665,30.97564,112.2707
+2020-02-06,2020,2,6,Hubei,Mainland China,China,19665,30.97564,112.2707
+2020-02-07,2020,2,7,Hubei,Mainland China,China,24953,30.97564,112.2707
+2020-02-08,2020,2,8,Hubei,Mainland China,China,27100,30.97564,112.2707
+2020-02-09,2020,2,9,Hubei,Mainland China,China,29631,30.97564,112.2707
+2020-02-10,2020,2,10,Hubei,Mainland China,China,29631,30.97564,112.2707
+2020-01-21,2020,1,21,Hunan,Mainland China,China,1,27.61041,111.7088
+2020-01-22,2020,1,22,Hunan,Mainland China,China,4,27.61041,111.7088
+2020-01-23,2020,1,23,Hunan,Mainland China,China,9,27.61041,111.7088
+2020-01-24,2020,1,24,Hunan,Mainland China,China,24,27.61041,111.7088
+2020-01-25,2020,1,25,Hunan,Mainland China,China,69,27.61041,111.7088
+2020-01-26,2020,1,26,Hunan,Mainland China,China,100,27.61041,111.7088
+2020-01-27,2020,1,27,Hunan,Mainland China,China,100,27.61041,111.7088
+2020-01-28,2020,1,28,Hunan,Mainland China,China,221,27.61041,111.7088
+2020-01-29,2020,1,29,Hunan,Mainland China,China,277,27.61041,111.7088
+2020-01-30,2020,1,30,Hunan,Mainland China,China,277,27.61041,111.7088
+2020-01-31,2020,1,31,Hunan,Mainland China,China,332,27.61041,111.7088
+2020-02-01,2020,2,1,Hunan,Mainland China,China,389,27.61041,111.7088
+2020-02-02,2020,2,2,Hunan,Mainland China,China,521,27.61041,111.7088
+2020-02-03,2020,2,3,Hunan,Mainland China,China,521,27.61041,111.7088
+2020-02-04,2020,2,4,Hunan,Mainland China,China,661,27.61041,111.7088
+2020-02-05,2020,2,5,Hunan,Mainland China,China,711,27.61041,111.7088
+2020-02-06,2020,2,6,Hunan,Mainland China,China,711,27.61041,111.7088
+2020-02-07,2020,2,7,Hunan,Mainland China,China,803,27.61041,111.7088
+2020-02-08,2020,2,8,Hunan,Mainland China,China,838,27.61041,111.7088
+2020-02-09,2020,2,9,Hunan,Mainland China,China,879,27.61041,111.7088
+2020-02-10,2020,2,10,Hunan,Mainland China,China,879,27.61041,111.7088
+2020-01-21,2020,1,21,Inner Mongolia,Mainland China,China,0,44.09448,113.9456
+2020-01-22,2020,1,22,Inner Mongolia,Mainland China,China,0,44.09448,113.9456
+2020-01-23,2020,1,23,Inner Mongolia,Mainland China,China,0,44.09448,113.9456
+2020-01-24,2020,1,24,Inner Mongolia,Mainland China,China,1,44.09448,113.9456
+2020-01-25,2020,1,25,Inner Mongolia,Mainland China,China,7,44.09448,113.9456
+2020-01-26,2020,1,26,Inner Mongolia,Mainland China,China,11,44.09448,113.9456
+2020-01-27,2020,1,27,Inner Mongolia,Mainland China,China,11,44.09448,113.9456
+2020-01-28,2020,1,28,Inner Mongolia,Mainland China,China,16,44.09448,113.9456
+2020-01-29,2020,1,29,Inner Mongolia,Mainland China,China,16,44.09448,113.9456
+2020-01-30,2020,1,30,Inner Mongolia,Mainland China,China,19,44.09448,113.9456
+2020-01-31,2020,1,31,Inner Mongolia,Mainland China,China,20,44.09448,113.9456
+2020-02-01,2020,2,1,Inner Mongolia,Mainland China,China,23,44.09448,113.9456
+2020-02-02,2020,2,2,Inner Mongolia,Mainland China,China,27,44.09448,113.9456
+2020-02-03,2020,2,3,Inner Mongolia,Mainland China,China,34,44.09448,113.9456
+2020-02-04,2020,2,4,Inner Mongolia,Mainland China,China,42,44.09448,113.9456
+2020-02-05,2020,2,5,Inner Mongolia,Mainland China,China,46,44.09448,113.9456
+2020-02-06,2020,2,6,Inner Mongolia,Mainland China,China,46,44.09448,113.9456
+2020-02-07,2020,2,7,Inner Mongolia,Mainland China,China,52,44.09448,113.9456
+2020-02-08,2020,2,8,Inner Mongolia,Mainland China,China,54,44.09448,113.9456
+2020-02-09,2020,2,9,Inner Mongolia,Mainland China,China,58,44.09448,113.9456
+2020-02-10,2020,2,10,Inner Mongolia,Mainland China,China,58,44.09448,113.9456
+2020-01-21,2020,1,21,Jiangsu,Mainland China,China,0,32.97027,119.464
+2020-01-22,2020,1,22,Jiangsu,Mainland China,China,1,32.97027,119.464
+2020-01-23,2020,1,23,Jiangsu,Mainland China,China,5,32.97027,119.464
+2020-01-24,2020,1,24,Jiangsu,Mainland China,China,9,32.97027,119.464
+2020-01-25,2020,1,25,Jiangsu,Mainland China,China,31,32.97027,119.464
+2020-01-26,2020,1,26,Jiangsu,Mainland China,China,47,32.97027,119.464
+2020-01-27,2020,1,27,Jiangsu,Mainland China,China,70,32.97027,119.464
+2020-01-28,2020,1,28,Jiangsu,Mainland China,China,99,32.97027,119.464
+2020-01-29,2020,1,29,Jiangsu,Mainland China,China,129,32.97027,119.464
+2020-01-30,2020,1,30,Jiangsu,Mainland China,China,129,32.97027,119.464
+2020-01-31,2020,1,31,Jiangsu,Mainland China,China,168,32.97027,119.464
+2020-02-01,2020,2,1,Jiangsu,Mainland China,China,202,32.97027,119.464
+2020-02-02,2020,2,2,Jiangsu,Mainland China,China,271,32.97027,119.464
+2020-02-03,2020,2,3,Jiangsu,Mainland China,China,308,32.97027,119.464
+2020-02-04,2020,2,4,Jiangsu,Mainland China,China,341,32.97027,119.464
+2020-02-05,2020,2,5,Jiangsu,Mainland China,China,373,32.97027,119.464
+2020-02-06,2020,2,6,Jiangsu,Mainland China,China,373,32.97027,119.464
+2020-02-07,2020,2,7,Jiangsu,Mainland China,China,439,32.97027,119.464
+2020-02-08,2020,2,8,Jiangsu,Mainland China,China,468,32.97027,119.464
+2020-02-09,2020,2,9,Jiangsu,Mainland China,China,492,32.97027,119.464
+2020-02-10,2020,2,10,Jiangsu,Mainland China,China,492,32.97027,119.464
+2020-01-21,2020,1,21,Jiangxi,Mainland China,China,2,27.61401,115.7221
+2020-01-22,2020,1,22,Jiangxi,Mainland China,China,2,27.61401,115.7221
+2020-01-23,2020,1,23,Jiangxi,Mainland China,China,7,27.61401,115.7221
+2020-01-24,2020,1,24,Jiangxi,Mainland China,China,18,27.61401,115.7221
+2020-01-25,2020,1,25,Jiangxi,Mainland China,China,36,27.61401,115.7221
+2020-01-26,2020,1,26,Jiangxi,Mainland China,China,48,27.61401,115.7221
+2020-01-27,2020,1,27,Jiangxi,Mainland China,China,72,27.61401,115.7221
+2020-01-28,2020,1,28,Jiangxi,Mainland China,China,109,27.61401,115.7221
+2020-01-29,2020,1,29,Jiangxi,Mainland China,China,162,27.61401,115.7221
+2020-01-30,2020,1,30,Jiangxi,Mainland China,China,162,27.61401,115.7221
+2020-01-31,2020,1,31,Jiangxi,Mainland China,China,240,27.61401,115.7221
+2020-02-01,2020,2,1,Jiangxi,Mainland China,China,286,27.61401,115.7221
+2020-02-02,2020,2,2,Jiangxi,Mainland China,China,391,27.61401,115.7221
+2020-02-03,2020,2,3,Jiangxi,Mainland China,China,391,27.61401,115.7221
+2020-02-04,2020,2,4,Jiangxi,Mainland China,China,548,27.61401,115.7221
+2020-02-05,2020,2,5,Jiangxi,Mainland China,China,600,27.61401,115.7221
+2020-02-06,2020,2,6,Jiangxi,Mainland China,China,600,27.61401,115.7221
+2020-02-07,2020,2,7,Jiangxi,Mainland China,China,698,27.61401,115.7221
+2020-02-08,2020,2,8,Jiangxi,Mainland China,China,740,27.61401,115.7221
+2020-02-09,2020,2,9,Jiangxi,Mainland China,China,771,27.61401,115.7221
+2020-02-10,2020,2,10,Jiangxi,Mainland China,China,771,27.61401,115.7221
+2020-01-21,2020,1,21,Jilin,Mainland China,China,0,43.66657,126.1917
+2020-01-22,2020,1,22,Jilin,Mainland China,China,0,43.66657,126.1917
+2020-01-23,2020,1,23,Jilin,Mainland China,China,1,43.66657,126.1917
+2020-01-24,2020,1,24,Jilin,Mainland China,China,3,43.66657,126.1917
+2020-01-25,2020,1,25,Jilin,Mainland China,China,4,43.66657,126.1917
+2020-01-26,2020,1,26,Jilin,Mainland China,China,6,43.66657,126.1917
+2020-01-27,2020,1,27,Jilin,Mainland China,China,6,43.66657,126.1917
+2020-01-28,2020,1,28,Jilin,Mainland China,China,9,43.66657,126.1917
+2020-01-29,2020,1,29,Jilin,Mainland China,China,14,43.66657,126.1917
+2020-01-30,2020,1,30,Jilin,Mainland China,China,14,43.66657,126.1917
+2020-01-31,2020,1,31,Jilin,Mainland China,China,14,43.66657,126.1917
+2020-02-01,2020,2,1,Jilin,Mainland China,China,17,43.66657,126.1917
+2020-02-02,2020,2,2,Jilin,Mainland China,China,31,43.66657,126.1917
+2020-02-03,2020,2,3,Jilin,Mainland China,China,42,43.66657,126.1917
+2020-02-04,2020,2,4,Jilin,Mainland China,China,54,43.66657,126.1917
+2020-02-05,2020,2,5,Jilin,Mainland China,China,59,43.66657,126.1917
+2020-02-06,2020,2,6,Jilin,Mainland China,China,59,43.66657,126.1917
+2020-02-07,2020,2,7,Jilin,Mainland China,China,69,43.66657,126.1917
+2020-02-08,2020,2,8,Jilin,Mainland China,China,78,43.66657,126.1917
+2020-02-09,2020,2,9,Jilin,Mainland China,China,80,43.66657,126.1917
+2020-02-10,2020,2,10,Jilin,Mainland China,China,80,43.66657,126.1917
+2020-01-21,2020,1,21,Liaoning,Mainland China,China,0,41.29284,122.6086
+2020-01-22,2020,1,22,Liaoning,Mainland China,China,2,41.29284,122.6086
+2020-01-23,2020,1,23,Liaoning,Mainland China,China,3,41.29284,122.6086
+2020-01-24,2020,1,24,Liaoning,Mainland China,China,4,41.29284,122.6086
+2020-01-25,2020,1,25,Liaoning,Mainland China,China,19,41.29284,122.6086
+2020-01-26,2020,1,26,Liaoning,Mainland China,China,23,41.29284,122.6086
+2020-01-27,2020,1,27,Liaoning,Mainland China,China,27,41.29284,122.6086
+2020-01-28,2020,1,28,Liaoning,Mainland China,China,36,41.29284,122.6086
+2020-01-29,2020,1,29,Liaoning,Mainland China,China,39,41.29284,122.6086
+2020-01-30,2020,1,30,Liaoning,Mainland China,China,41,41.29284,122.6086
+2020-01-31,2020,1,31,Liaoning,Mainland China,China,48,41.29284,122.6086
+2020-02-01,2020,2,1,Liaoning,Mainland China,China,63,41.29284,122.6086
+2020-02-02,2020,2,2,Liaoning,Mainland China,China,70,41.29284,122.6086
+2020-02-03,2020,2,3,Liaoning,Mainland China,China,74,41.29284,122.6086
+2020-02-04,2020,2,4,Liaoning,Mainland China,China,81,41.29284,122.6086
+2020-02-05,2020,2,5,Liaoning,Mainland China,China,89,41.29284,122.6086
+2020-02-06,2020,2,6,Liaoning,Mainland China,China,94,41.29284,122.6086
+2020-02-07,2020,2,7,Liaoning,Mainland China,China,99,41.29284,122.6086
+2020-02-08,2020,2,8,Liaoning,Mainland China,China,105,41.29284,122.6086
+2020-02-09,2020,2,9,Liaoning,Mainland China,China,107,41.29284,122.6086
+2020-02-10,2020,2,10,Liaoning,Mainland China,China,108,41.29284,122.6086
+2020-01-21,2020,1,21,Ningxia,Mainland China,China,0,37.26923,106.1655
+2020-01-22,2020,1,22,Ningxia,Mainland China,China,1,37.26923,106.1655
+2020-01-23,2020,1,23,Ningxia,Mainland China,China,1,37.26923,106.1655
+2020-01-24,2020,1,24,Ningxia,Mainland China,China,2,37.26923,106.1655
+2020-01-25,2020,1,25,Ningxia,Mainland China,China,4,37.26923,106.1655
+2020-01-26,2020,1,26,Ningxia,Mainland China,China,4,37.26923,106.1655
+2020-01-27,2020,1,27,Ningxia,Mainland China,China,7,37.26923,106.1655
+2020-01-28,2020,1,28,Ningxia,Mainland China,China,12,37.26923,106.1655
+2020-01-29,2020,1,29,Ningxia,Mainland China,China,12,37.26923,106.1655
+2020-01-30,2020,1,30,Ningxia,Mainland China,China,17,37.26923,106.1655
+2020-01-31,2020,1,31,Ningxia,Mainland China,China,21,37.26923,106.1655
+2020-02-01,2020,2,1,Ningxia,Mainland China,China,26,37.26923,106.1655
+2020-02-02,2020,2,2,Ningxia,Mainland China,China,28,37.26923,106.1655
+2020-02-03,2020,2,3,Ningxia,Mainland China,China,31,37.26923,106.1655
+2020-02-04,2020,2,4,Ningxia,Mainland China,China,34,37.26923,106.1655
+2020-02-05,2020,2,5,Ningxia,Mainland China,China,40,37.26923,106.1655
+2020-02-06,2020,2,6,Ningxia,Mainland China,China,40,37.26923,106.1655
+2020-02-07,2020,2,7,Ningxia,Mainland China,China,45,37.26923,106.1655
+2020-02-08,2020,2,8,Ningxia,Mainland China,China,45,37.26923,106.1655
+2020-02-09,2020,2,9,Ningxia,Mainland China,China,49,37.26923,106.1655
+2020-02-10,2020,2,10,Ningxia,Mainland China,China,49,37.26923,106.1655
+2020-01-21,2020,1,21,Qinghai,Mainland China,China,0,35.65945,96.02564
+2020-01-22,2020,1,22,Qinghai,Mainland China,China,0,35.65945,96.02564
+2020-01-23,2020,1,23,Qinghai,Mainland China,China,0,35.65945,96.02564
+2020-01-24,2020,1,24,Qinghai,Mainland China,China,0,35.65945,96.02564
+2020-01-25,2020,1,25,Qinghai,Mainland China,China,1,35.65945,96.02564
+2020-01-26,2020,1,26,Qinghai,Mainland China,China,4,35.65945,96.02564
+2020-01-27,2020,1,27,Qinghai,Mainland China,China,6,35.65945,96.02564
+2020-01-28,2020,1,28,Qinghai,Mainland China,China,6,35.65945,96.02564
+2020-01-29,2020,1,29,Qinghai,Mainland China,China,6,35.65945,96.02564
+2020-01-30,2020,1,30,Qinghai,Mainland China,China,8,35.65945,96.02564
+2020-01-31,2020,1,31,Qinghai,Mainland China,China,8,35.65945,96.02564
+2020-02-01,2020,2,1,Qinghai,Mainland China,China,9,35.65945,96.02564
+2020-02-02,2020,2,2,Qinghai,Mainland China,China,11,35.65945,96.02564
+2020-02-03,2020,2,3,Qinghai,Mainland China,China,13,35.65945,96.02564
+2020-02-04,2020,2,4,Qinghai,Mainland China,China,17,35.65945,96.02564
+2020-02-05,2020,2,5,Qinghai,Mainland China,China,18,35.65945,96.02564
+2020-02-06,2020,2,6,Qinghai,Mainland China,China,18,35.65945,96.02564
+2020-02-07,2020,2,7,Qinghai,Mainland China,China,18,35.65945,96.02564
+2020-02-08,2020,2,8,Qinghai,Mainland China,China,18,35.65945,96.02564
+2020-02-09,2020,2,9,Qinghai,Mainland China,China,18,35.65945,96.02564
+2020-02-10,2020,2,10,Qinghai,Mainland China,China,18,35.65945,96.02564
+2020-01-21,2020,1,21,Shaanxi,Mainland China,China,0,35.19165,108.8701
+2020-01-22,2020,1,22,Shaanxi,Mainland China,China,0,35.19165,108.8701
+2020-01-23,2020,1,23,Shaanxi,Mainland China,China,3,35.19165,108.8701
+2020-01-24,2020,1,24,Shaanxi,Mainland China,China,5,35.19165,108.8701
+2020-01-25,2020,1,25,Shaanxi,Mainland China,China,15,35.19165,108.8701
+2020-01-26,2020,1,26,Shaanxi,Mainland China,China,22,35.19165,108.8701
+2020-01-27,2020,1,27,Shaanxi,Mainland China,China,35,35.19165,108.8701
+2020-01-28,2020,1,28,Shaanxi,Mainland China,China,56,35.19165,108.8701
+2020-01-29,2020,1,29,Shaanxi,Mainland China,China,56,35.19165,108.8701
+2020-01-30,2020,1,30,Shaanxi,Mainland China,China,63,35.19165,108.8701
+2020-01-31,2020,1,31,Shaanxi,Mainland China,China,87,35.19165,108.8701
+2020-02-01,2020,2,1,Shaanxi,Mainland China,China,101,35.19165,108.8701
+2020-02-02,2020,2,2,Shaanxi,Mainland China,China,116,35.19165,108.8701
+2020-02-03,2020,2,3,Shaanxi,Mainland China,China,128,35.19165,108.8701
+2020-02-04,2020,2,4,Shaanxi,Mainland China,China,165,35.19165,108.8701
+2020-02-05,2020,2,5,Shaanxi,Mainland China,China,173,35.19165,108.8701
+2020-02-06,2020,2,6,Shaanxi,Mainland China,China,173,35.19165,108.8701
+2020-02-07,2020,2,7,Shaanxi,Mainland China,China,195,35.19165,108.8701
+2020-02-08,2020,2,8,Shaanxi,Mainland China,China,208,35.19165,108.8701
+2020-02-09,2020,2,9,Shaanxi,Mainland China,China,213,35.19165,108.8701
+2020-02-10,2020,2,10,Shaanxi,Mainland China,China,213,35.19165,108.8701
+2020-01-21,2020,1,21,Shandong,Mainland China,China,1,36.34377,118.1529
+2020-01-22,2020,1,22,Shandong,Mainland China,China,2,36.34377,118.1529
+2020-01-23,2020,1,23,Shandong,Mainland China,China,6,36.34377,118.1529
+2020-01-24,2020,1,24,Shandong,Mainland China,China,15,36.34377,118.1529
+2020-01-25,2020,1,25,Shandong,Mainland China,China,39,36.34377,118.1529
+2020-01-26,2020,1,26,Shandong,Mainland China,China,63,36.34377,118.1529
+2020-01-27,2020,1,27,Shandong,Mainland China,China,87,36.34377,118.1529
+2020-01-28,2020,1,28,Shandong,Mainland China,China,121,36.34377,118.1529
+2020-01-29,2020,1,29,Shandong,Mainland China,China,145,36.34377,118.1529
+2020-01-30,2020,1,30,Shandong,Mainland China,China,158,36.34377,118.1529
+2020-01-31,2020,1,31,Shandong,Mainland China,China,184,36.34377,118.1529
+2020-02-01,2020,2,1,Shandong,Mainland China,China,206,36.34377,118.1529
+2020-02-02,2020,2,2,Shandong,Mainland China,China,246,36.34377,118.1529
+2020-02-03,2020,2,3,Shandong,Mainland China,China,270,36.34377,118.1529
+2020-02-04,2020,2,4,Shandong,Mainland China,China,298,36.34377,118.1529
+2020-02-05,2020,2,5,Shandong,Mainland China,China,343,36.34377,118.1529
+2020-02-06,2020,2,6,Shandong,Mainland China,China,347,36.34377,118.1529
+2020-02-07,2020,2,7,Shandong,Mainland China,China,407,36.34377,118.1529
+2020-02-08,2020,2,8,Shandong,Mainland China,China,435,36.34377,118.1529
+2020-02-09,2020,2,9,Shandong,Mainland China,China,459,36.34377,118.1529
+2020-02-10,2020,2,10,Shandong,Mainland China,China,466,36.34377,118.1529
+2020-01-21,2020,1,21,Shanghai,Mainland China,China,9,31.20327,121.4554
+2020-01-22,2020,1,22,Shanghai,Mainland China,China,9,31.20327,121.4554
+2020-01-23,2020,1,23,Shanghai,Mainland China,China,16,31.20327,121.4554
+2020-01-24,2020,1,24,Shanghai,Mainland China,China,20,31.20327,121.4554
+2020-01-25,2020,1,25,Shanghai,Mainland China,China,40,31.20327,121.4554
+2020-01-26,2020,1,26,Shanghai,Mainland China,China,53,31.20327,121.4554
+2020-01-27,2020,1,27,Shanghai,Mainland China,China,66,31.20327,121.4554
+2020-01-28,2020,1,28,Shanghai,Mainland China,China,80,31.20327,121.4554
+2020-01-29,2020,1,29,Shanghai,Mainland China,China,101,31.20327,121.4554
+2020-01-30,2020,1,30,Shanghai,Mainland China,China,112,31.20327,121.4554
+2020-01-31,2020,1,31,Shanghai,Mainland China,China,135,31.20327,121.4554
+2020-02-01,2020,2,1,Shanghai,Mainland China,China,169,31.20327,121.4554
+2020-02-02,2020,2,2,Shanghai,Mainland China,China,193,31.20327,121.4554
+2020-02-03,2020,2,3,Shanghai,Mainland China,China,208,31.20327,121.4554
+2020-02-04,2020,2,4,Shanghai,Mainland China,China,233,31.20327,121.4554
+2020-02-05,2020,2,5,Shanghai,Mainland China,China,254,31.20327,121.4554
+2020-02-06,2020,2,6,Shanghai,Mainland China,China,257,31.20327,121.4554
+2020-02-07,2020,2,7,Shanghai,Mainland China,China,281,31.20327,121.4554
+2020-02-08,2020,2,8,Shanghai,Mainland China,China,292,31.20327,121.4554
+2020-02-09,2020,2,9,Shanghai,Mainland China,China,295,31.20327,121.4554
+2020-02-10,2020,2,10,Shanghai,Mainland China,China,299,31.20327,121.4554
+2020-01-21,2020,1,21,Shanxi,Mainland China,China,0,37.57769,112.2922
+2020-01-22,2020,1,22,Shanxi,Mainland China,China,1,37.57769,112.2922
+2020-01-23,2020,1,23,Shanxi,Mainland China,China,1,37.57769,112.2922
+2020-01-24,2020,1,24,Shanxi,Mainland China,China,1,37.57769,112.2922
+2020-01-25,2020,1,25,Shanxi,Mainland China,China,9,37.57769,112.2922
+2020-01-26,2020,1,26,Shanxi,Mainland China,China,13,37.57769,112.2922
+2020-01-27,2020,1,27,Shanxi,Mainland China,China,20,37.57769,112.2922
+2020-01-28,2020,1,28,Shanxi,Mainland China,China,27,37.57769,112.2922
+2020-01-29,2020,1,29,Shanxi,Mainland China,China,35,37.57769,112.2922
+2020-01-30,2020,1,30,Shanxi,Mainland China,China,35,37.57769,112.2922
+2020-01-31,2020,1,31,Shanxi,Mainland China,China,39,37.57769,112.2922
+2020-02-01,2020,2,1,Shanxi,Mainland China,China,47,37.57769,112.2922
+2020-02-02,2020,2,2,Shanxi,Mainland China,China,66,37.57769,112.2922
+2020-02-03,2020,2,3,Shanxi,Mainland China,China,74,37.57769,112.2922
+2020-02-04,2020,2,4,Shanxi,Mainland China,China,81,37.57769,112.2922
+2020-02-05,2020,2,5,Shanxi,Mainland China,China,90,37.57769,112.2922
+2020-02-06,2020,2,6,Shanxi,Mainland China,China,90,37.57769,112.2922
+2020-02-07,2020,2,7,Shanxi,Mainland China,China,104,37.57769,112.2922
+2020-02-08,2020,2,8,Shanxi,Mainland China,China,115,37.57769,112.2922
+2020-02-09,2020,2,9,Shanxi,Mainland China,China,119,37.57769,112.2922
+2020-02-10,2020,2,10,Shanxi,Mainland China,China,119,37.57769,112.2922
+2020-01-21,2020,1,21,Sichuan,Mainland China,China,2,30.61714,102.7103
+2020-01-22,2020,1,22,Sichuan,Mainland China,China,5,30.61714,102.7103
+2020-01-23,2020,1,23,Sichuan,Mainland China,China,8,30.61714,102.7103
+2020-01-24,2020,1,24,Sichuan,Mainland China,China,15,30.61714,102.7103
+2020-01-25,2020,1,25,Sichuan,Mainland China,China,44,30.61714,102.7103
+2020-01-26,2020,1,26,Sichuan,Mainland China,China,69,30.61714,102.7103
+2020-01-27,2020,1,27,Sichuan,Mainland China,China,90,30.61714,102.7103
+2020-01-28,2020,1,28,Sichuan,Mainland China,China,108,30.61714,102.7103
+2020-01-29,2020,1,29,Sichuan,Mainland China,China,142,30.61714,102.7103
+2020-01-30,2020,1,30,Sichuan,Mainland China,China,142,30.61714,102.7103
+2020-01-31,2020,1,31,Sichuan,Mainland China,China,177,30.61714,102.7103
+2020-02-01,2020,2,1,Sichuan,Mainland China,China,207,30.61714,102.7103
+2020-02-02,2020,2,2,Sichuan,Mainland China,China,254,30.61714,102.7103
+2020-02-03,2020,2,3,Sichuan,Mainland China,China,254,30.61714,102.7103
+2020-02-04,2020,2,4,Sichuan,Mainland China,China,301,30.61714,102.7103
+2020-02-05,2020,2,5,Sichuan,Mainland China,China,321,30.61714,102.7103
+2020-02-06,2020,2,6,Sichuan,Mainland China,China,321,30.61714,102.7103
+2020-02-07,2020,2,7,Sichuan,Mainland China,China,363,30.61714,102.7103
+2020-02-08,2020,2,8,Sichuan,Mainland China,China,386,30.61714,102.7103
+2020-02-09,2020,2,9,Sichuan,Mainland China,China,405,30.61714,102.7103
+2020-02-10,2020,2,10,Sichuan,Mainland China,China,405,30.61714,102.7103
+2020-01-21,2020,1,21,Tianjin,Mainland China,China,2,39.29362,117.333
+2020-01-22,2020,1,22,Tianjin,Mainland China,China,4,39.29362,117.333
+2020-01-23,2020,1,23,Tianjin,Mainland China,China,4,39.29362,117.333
+2020-01-24,2020,1,24,Tianjin,Mainland China,China,8,39.29362,117.333
+2020-01-25,2020,1,25,Tianjin,Mainland China,China,13,39.29362,117.333
+2020-01-26,2020,1,26,Tianjin,Mainland China,China,14,39.29362,117.333
+2020-01-27,2020,1,27,Tianjin,Mainland China,China,23,39.29362,117.333
+2020-01-28,2020,1,28,Tianjin,Mainland China,China,25,39.29362,117.333
+2020-01-29,2020,1,29,Tianjin,Mainland China,China,27,39.29362,117.333
+2020-01-30,2020,1,30,Tianjin,Mainland China,China,31,39.29362,117.333
+2020-01-31,2020,1,31,Tianjin,Mainland China,China,32,39.29362,117.333
+2020-02-01,2020,2,1,Tianjin,Mainland China,China,38,39.29362,117.333
+2020-02-02,2020,2,2,Tianjin,Mainland China,China,48,39.29362,117.333
+2020-02-03,2020,2,3,Tianjin,Mainland China,China,60,39.29362,117.333
+2020-02-04,2020,2,4,Tianjin,Mainland China,China,67,39.29362,117.333
+2020-02-05,2020,2,5,Tianjin,Mainland China,China,69,39.29362,117.333
+2020-02-06,2020,2,6,Tianjin,Mainland China,China,78,39.29362,117.333
+2020-02-07,2020,2,7,Tianjin,Mainland China,China,88,39.29362,117.333
+2020-02-08,2020,2,8,Tianjin,Mainland China,China,90,39.29362,117.333
+2020-02-09,2020,2,9,Tianjin,Mainland China,China,94,39.29362,117.333
+2020-02-10,2020,2,10,Tianjin,Mainland China,China,95,39.29362,117.333
+2020-01-21,2020,1,21,Tibet,Mainland China,China,0,30.1534,88.7879
+2020-01-22,2020,1,22,Tibet,Mainland China,China,0,30.1534,88.7879
+2020-01-23,2020,1,23,Tibet,Mainland China,China,0,30.1534,88.7879
+2020-01-24,2020,1,24,Tibet,Mainland China,China,0,30.1534,88.7879
+2020-01-25,2020,1,25,Tibet,Mainland China,China,0,30.1534,88.7879
+2020-01-26,2020,1,26,Tibet,Mainland China,China,0,30.1534,88.7879
+2020-01-27,2020,1,27,Tibet,Mainland China,China,0,30.1534,88.7879
+2020-01-28,2020,1,28,Tibet,Mainland China,China,0,30.1534,88.7879
+2020-01-29,2020,1,29,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-01-30,2020,1,30,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-01-31,2020,1,31,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-02-01,2020,2,1,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-02-02,2020,2,2,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-02-03,2020,2,3,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-02-04,2020,2,4,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-02-05,2020,2,5,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-02-06,2020,2,6,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-02-07,2020,2,7,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-02-08,2020,2,8,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-02-09,2020,2,9,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-02-10,2020,2,10,Tibet,Mainland China,China,1,30.1534,88.7879
+2020-01-21,2020,1,21,Xinjiang,Mainland China,China,0,41.11981,85.17822
+2020-01-22,2020,1,22,Xinjiang,Mainland China,China,0,41.11981,85.17822
+2020-01-23,2020,1,23,Xinjiang,Mainland China,China,2,41.11981,85.17822
+2020-01-24,2020,1,24,Xinjiang,Mainland China,China,2,41.11981,85.17822
+2020-01-25,2020,1,25,Xinjiang,Mainland China,China,4,41.11981,85.17822
+2020-01-26,2020,1,26,Xinjiang,Mainland China,China,5,41.11981,85.17822
+2020-01-27,2020,1,27,Xinjiang,Mainland China,China,5,41.11981,85.17822
+2020-01-28,2020,1,28,Xinjiang,Mainland China,China,13,41.11981,85.17822
+2020-01-29,2020,1,29,Xinjiang,Mainland China,China,14,41.11981,85.17822
+2020-01-30,2020,1,30,Xinjiang,Mainland China,China,14,41.11981,85.17822
+2020-01-31,2020,1,31,Xinjiang,Mainland China,China,17,41.11981,85.17822
+2020-02-01,2020,2,1,Xinjiang,Mainland China,China,18,41.11981,85.17822
+2020-02-02,2020,2,2,Xinjiang,Mainland China,China,24,41.11981,85.17822
+2020-02-03,2020,2,3,Xinjiang,Mainland China,China,24,41.11981,85.17822
+2020-02-04,2020,2,4,Xinjiang,Mainland China,China,32,41.11981,85.17822
+2020-02-05,2020,2,5,Xinjiang,Mainland China,China,36,41.11981,85.17822
+2020-02-06,2020,2,6,Xinjiang,Mainland China,China,36,41.11981,85.17822
+2020-02-07,2020,2,7,Xinjiang,Mainland China,China,42,41.11981,85.17822
+2020-02-08,2020,2,8,Xinjiang,Mainland China,China,45,41.11981,85.17822
+2020-02-09,2020,2,9,Xinjiang,Mainland China,China,49,41.11981,85.17822
+2020-02-10,2020,2,10,Xinjiang,Mainland China,China,49,41.11981,85.17822
+2020-01-21,2020,1,21,Yunnan,Mainland China,China,1,24.97411,101.4868
+2020-01-22,2020,1,22,Yunnan,Mainland China,China,1,24.97411,101.4868
+2020-01-23,2020,1,23,Yunnan,Mainland China,China,2,24.97411,101.4868
+2020-01-24,2020,1,24,Yunnan,Mainland China,China,5,24.97411,101.4868
+2020-01-25,2020,1,25,Yunnan,Mainland China,China,11,24.97411,101.4868
+2020-01-26,2020,1,26,Yunnan,Mainland China,China,19,24.97411,101.4868
+2020-01-27,2020,1,27,Yunnan,Mainland China,China,26,24.97411,101.4868
+2020-01-28,2020,1,28,Yunnan,Mainland China,China,44,24.97411,101.4868
+2020-01-29,2020,1,29,Yunnan,Mainland China,China,55,24.97411,101.4868
+2020-01-30,2020,1,30,Yunnan,Mainland China,China,70,24.97411,101.4868
+2020-01-31,2020,1,31,Yunnan,Mainland China,China,83,24.97411,101.4868
+2020-02-01,2020,2,1,Yunnan,Mainland China,China,91,24.97411,101.4868
+2020-02-02,2020,2,2,Yunnan,Mainland China,China,105,24.97411,101.4868
+2020-02-03,2020,2,3,Yunnan,Mainland China,China,117,24.97411,101.4868
+2020-02-04,2020,2,4,Yunnan,Mainland China,China,122,24.97411,101.4868
+2020-02-05,2020,2,5,Yunnan,Mainland China,China,128,24.97411,101.4868
+2020-02-06,2020,2,6,Yunnan,Mainland China,China,133,24.97411,101.4868
+2020-02-07,2020,2,7,Yunnan,Mainland China,China,138,24.97411,101.4868
+2020-02-08,2020,2,8,Yunnan,Mainland China,China,140,24.97411,101.4868
+2020-02-09,2020,2,9,Yunnan,Mainland China,China,141,24.97411,101.4868
+2020-02-10,2020,2,10,Yunnan,Mainland China,China,149,24.97411,101.4868
+2020-01-21,2020,1,21,Zhejiang,Mainland China,China,5,29.18251,120.0985
+2020-01-22,2020,1,22,Zhejiang,Mainland China,China,10,29.18251,120.0985
+2020-01-23,2020,1,23,Zhejiang,Mainland China,China,27,29.18251,120.0985
+2020-01-24,2020,1,24,Zhejiang,Mainland China,China,43,29.18251,120.0985
+2020-01-25,2020,1,25,Zhejiang,Mainland China,China,104,29.18251,120.0985
+2020-01-26,2020,1,26,Zhejiang,Mainland China,China,128,29.18251,120.0985
+2020-01-27,2020,1,27,Zhejiang,Mainland China,China,173,29.18251,120.0985
+2020-01-28,2020,1,28,Zhejiang,Mainland China,China,296,29.18251,120.0985
+2020-01-29,2020,1,29,Zhejiang,Mainland China,China,428,29.18251,120.0985
+2020-01-30,2020,1,30,Zhejiang,Mainland China,China,428,29.18251,120.0985
+2020-01-31,2020,1,31,Zhejiang,Mainland China,China,538,29.18251,120.0985
+2020-02-01,2020,2,1,Zhejiang,Mainland China,China,599,29.18251,120.0985
+2020-02-02,2020,2,2,Zhejiang,Mainland China,China,724,29.18251,120.0985
+2020-02-03,2020,2,3,Zhejiang,Mainland China,China,724,29.18251,120.0985
+2020-02-04,2020,2,4,Zhejiang,Mainland China,China,895,29.18251,120.0985
+2020-02-05,2020,2,5,Zhejiang,Mainland China,China,954,29.18251,120.0985
+2020-02-06,2020,2,6,Zhejiang,Mainland China,China,954,29.18251,120.0985
+2020-02-07,2020,2,7,Zhejiang,Mainland China,China,1048,29.18251,120.0985
+2020-02-08,2020,2,8,Zhejiang,Mainland China,China,1075,29.18251,120.0985
+2020-02-09,2020,2,9,Zhejiang,Mainland China,China,1092,29.18251,120.0985
+2020-02-10,2020,2,10,Zhejiang,Mainland China,China,1092,29.18251,120.0985
+2020-01-21,2020,1,21,NA,Thailand,Other,2,13.7563,100.5018
+2020-01-22,2020,1,22,NA,Thailand,Other,2,13.7563,100.5018
+2020-01-23,2020,1,23,NA,Thailand,Other,3,13.7563,100.5018
+2020-01-24,2020,1,24,NA,Thailand,Other,5,13.7563,100.5018
+2020-01-25,2020,1,25,NA,Thailand,Other,7,13.7563,100.5018
+2020-01-26,2020,1,26,NA,Thailand,Other,8,13.7563,100.5018
+2020-01-27,2020,1,27,NA,Thailand,Other,8,13.7563,100.5018
+2020-01-28,2020,1,28,NA,Thailand,Other,14,13.7563,100.5018
+2020-01-29,2020,1,29,NA,Thailand,Other,14,13.7563,100.5018
+2020-01-30,2020,1,30,NA,Thailand,Other,14,13.7563,100.5018
+2020-01-31,2020,1,31,NA,Thailand,Other,19,13.7563,100.5018
+2020-02-01,2020,2,1,NA,Thailand,Other,19,13.7563,100.5018
+2020-02-02,2020,2,2,NA,Thailand,Other,19,13.7563,100.5018
+2020-02-03,2020,2,3,NA,Thailand,Other,19,13.7563,100.5018
+2020-02-04,2020,2,4,NA,Thailand,Other,25,13.7563,100.5018
+2020-02-05,2020,2,5,NA,Thailand,Other,25,13.7563,100.5018
+2020-02-06,2020,2,6,NA,Thailand,Other,25,13.7563,100.5018
+2020-02-07,2020,2,7,NA,Thailand,Other,25,13.7563,100.5018
+2020-02-08,2020,2,8,NA,Thailand,Other,32,13.7563,100.5018
+2020-02-09,2020,2,9,NA,Thailand,Other,32,13.7563,100.5018
+2020-02-10,2020,2,10,NA,Thailand,Other,32,13.7563,100.5018
+2020-01-21,2020,1,21,NA,Japan,Other,1,35.6762,139.6503
+2020-01-22,2020,1,22,NA,Japan,Other,2,35.6762,139.6503
+2020-01-23,2020,1,23,NA,Japan,Other,2,35.6762,139.6503
+2020-01-24,2020,1,24,NA,Japan,Other,2,35.6762,139.6503
+2020-01-25,2020,1,25,NA,Japan,Other,2,35.6762,139.6503
+2020-01-26,2020,1,26,NA,Japan,Other,4,35.6762,139.6503
+2020-01-27,2020,1,27,NA,Japan,Other,4,35.6762,139.6503
+2020-01-28,2020,1,28,NA,Japan,Other,7,35.6762,139.6503
+2020-01-29,2020,1,29,NA,Japan,Other,11,35.6762,139.6503
+2020-01-30,2020,1,30,NA,Japan,Other,11,35.6762,139.6503
+2020-01-31,2020,1,31,NA,Japan,Other,15,35.6762,139.6503
+2020-02-01,2020,2,1,NA,Japan,Other,17,35.6762,139.6503
+2020-02-02,2020,2,2,NA,Japan,Other,20,35.6762,139.6503
+2020-02-03,2020,2,3,NA,Japan,Other,20,35.6762,139.6503
+2020-02-04,2020,2,4,NA,Japan,Other,22,35.6762,139.6503
+2020-02-05,2020,2,5,NA,Japan,Other,45,35.6762,139.6503
+2020-02-06,2020,2,6,NA,Japan,Other,45,35.6762,139.6503
+2020-02-07,2020,2,7,NA,Japan,Other,25,35.6762,139.6503
+2020-02-08,2020,2,8,NA,Japan,Other,25,35.6762,139.6503
+2020-02-09,2020,2,9,NA,Japan,Other,26,35.6762,139.6503
+2020-02-10,2020,2,10,NA,Japan,Other,26,35.6762,139.6503
+2020-01-21,2020,1,21,NA,South Korea,Other,0,37.5665,126.978
+2020-01-22,2020,1,22,NA,South Korea,Other,1,37.5665,126.978
+2020-01-23,2020,1,23,NA,South Korea,Other,1,37.5665,126.978
+2020-01-24,2020,1,24,NA,South Korea,Other,2,37.5665,126.978
+2020-01-25,2020,1,25,NA,South Korea,Other,2,37.5665,126.978
+2020-01-26,2020,1,26,NA,South Korea,Other,3,37.5665,126.978
+2020-01-27,2020,1,27,NA,South Korea,Other,4,37.5665,126.978
+2020-01-28,2020,1,28,NA,South Korea,Other,4,37.5665,126.978
+2020-01-29,2020,1,29,NA,South Korea,Other,4,37.5665,126.978
+2020-01-30,2020,1,30,NA,South Korea,Other,4,37.5665,126.978
+2020-01-31,2020,1,31,NA,South Korea,Other,11,37.5665,126.978
+2020-02-01,2020,2,1,NA,South Korea,Other,12,37.5665,126.978
+2020-02-02,2020,2,2,NA,South Korea,Other,15,37.5665,126.978
+2020-02-03,2020,2,3,NA,South Korea,Other,15,37.5665,126.978
+2020-02-04,2020,2,4,NA,South Korea,Other,16,37.5665,126.978
+2020-02-05,2020,2,5,NA,South Korea,Other,23,37.5665,126.978
+2020-02-06,2020,2,6,NA,South Korea,Other,23,37.5665,126.978
+2020-02-07,2020,2,7,NA,South Korea,Other,36,37.5665,126.978
+2020-02-08,2020,2,8,NA,South Korea,Other,25,37.5665,126.978
+2020-02-09,2020,2,9,NA,South Korea,Other,27,37.5665,126.978
+2020-02-10,2020,2,10,NA,South Korea,Other,27,37.5665,126.978
+2020-01-21,2020,1,21,Taiwan,Taiwan,Other,1,23.6978,120.9605
+2020-01-22,2020,1,22,Taiwan,Taiwan,Other,1,23.6978,120.9605
+2020-01-23,2020,1,23,Taiwan,Taiwan,Other,1,23.6978,120.9605
+2020-01-24,2020,1,24,Taiwan,Taiwan,Other,3,23.6978,120.9605
+2020-01-25,2020,1,25,Taiwan,Taiwan,Other,3,23.6978,120.9605
+2020-01-26,2020,1,26,Taiwan,Taiwan,Other,4,23.6978,120.9605
+2020-01-27,2020,1,27,Taiwan,Taiwan,Other,5,23.6978,120.9605
+2020-01-28,2020,1,28,Taiwan,Taiwan,Other,8,23.6978,120.9605
+2020-01-29,2020,1,29,Taiwan,Taiwan,Other,8,23.6978,120.9605
+2020-01-30,2020,1,30,Taiwan,Taiwan,Other,9,23.6978,120.9605
+2020-01-31,2020,1,31,Taiwan,Taiwan,Other,10,23.6978,120.9605
+2020-02-01,2020,2,1,Taiwan,Taiwan,Other,10,23.6978,120.9605
+2020-02-02,2020,2,2,Taiwan,Taiwan,Other,10,23.6978,120.9605
+2020-02-03,2020,2,3,Taiwan,Taiwan,Other,10,23.6978,120.9605
+2020-02-04,2020,2,4,Taiwan,Taiwan,Other,11,23.6978,120.9605
+2020-02-05,2020,2,5,Taiwan,Taiwan,Other,11,23.6978,120.9605
+2020-02-06,2020,2,6,Taiwan,Taiwan,Other,16,23.6978,120.9605
+2020-02-07,2020,2,7,Taiwan,Taiwan,Other,16,23.6978,120.9605
+2020-02-08,2020,2,8,Taiwan,Taiwan,Other,17,23.6978,120.9605
+2020-02-09,2020,2,9,Taiwan,Taiwan,Other,18,23.6978,120.9605
+2020-02-10,2020,2,10,Taiwan,Taiwan,Other,18,23.6978,120.9605
+2020-01-21,2020,1,21,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-01-22,2020,1,22,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-01-23,2020,1,23,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-01-24,2020,1,24,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-01-25,2020,1,25,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-01-26,2020,1,26,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-01-27,2020,1,27,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-01-28,2020,1,28,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-01-29,2020,1,29,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-01-30,2020,1,30,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-01-31,2020,1,31,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-02-01,2020,2,1,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-02-02,2020,2,2,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-02-03,2020,2,3,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-02-04,2020,2,4,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-02-05,2020,2,5,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-02-06,2020,2,6,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-02-07,2020,2,7,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-02-08,2020,2,8,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-02-09,2020,2,9,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-02-10,2020,2,10,"Seattle, WA",US,Other,1,47.7511,-120.74
+2020-01-21,2020,1,21,"Chicago, IL",US,Other,0,40.6331,-89.3985
+2020-01-22,2020,1,22,"Chicago, IL",US,Other,0,40.6331,-89.3985
+2020-01-23,2020,1,23,"Chicago, IL",US,Other,0,40.6331,-89.3985
+2020-01-24,2020,1,24,"Chicago, IL",US,Other,1,40.6331,-89.3985
+2020-01-25,2020,1,25,"Chicago, IL",US,Other,1,40.6331,-89.3985
+2020-01-26,2020,1,26,"Chicago, IL",US,Other,1,40.6331,-89.3985
+2020-01-27,2020,1,27,"Chicago, IL",US,Other,1,40.6331,-89.3985
+2020-01-28,2020,1,28,"Chicago, IL",US,Other,1,40.6331,-89.3985
+2020-01-29,2020,1,29,"Chicago, IL",US,Other,1,40.6331,-89.3985
+2020-01-30,2020,1,30,"Chicago, IL",US,Other,1,40.6331,-89.3985
+2020-01-31,2020,1,31,"Chicago, IL",US,Other,2,40.6331,-89.3985
+2020-02-01,2020,2,1,"Chicago, IL",US,Other,2,40.6331,-89.3985
+2020-02-02,2020,2,2,"Chicago, IL",US,Other,2,40.6331,-89.3985
+2020-02-03,2020,2,3,"Chicago, IL",US,Other,2,40.6331,-89.3985
+2020-02-04,2020,2,4,"Chicago, IL",US,Other,2,40.6331,-89.3985
+2020-02-05,2020,2,5,"Chicago, IL",US,Other,2,40.6331,-89.3985
+2020-02-06,2020,2,6,"Chicago, IL",US,Other,2,40.6331,-89.3985
+2020-02-07,2020,2,7,"Chicago, IL",US,Other,2,40.6331,-89.3985
+2020-02-08,2020,2,8,"Chicago, IL",US,Other,2,40.6331,-89.3985
+2020-02-09,2020,2,9,"Chicago, IL",US,Other,2,40.6331,-89.3985
+2020-02-10,2020,2,10,"Chicago, IL",US,Other,2,40.6331,-89.3985
+2020-01-21,2020,1,21,"Tempe, AZ",US,Other,0,34.0489,-111.094
+2020-01-22,2020,1,22,"Tempe, AZ",US,Other,0,34.0489,-111.094
+2020-01-23,2020,1,23,"Tempe, AZ",US,Other,0,34.0489,-111.094
+2020-01-24,2020,1,24,"Tempe, AZ",US,Other,0,34.0489,-111.094
+2020-01-25,2020,1,25,"Tempe, AZ",US,Other,0,34.0489,-111.094
+2020-01-26,2020,1,26,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-01-27,2020,1,27,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-01-28,2020,1,28,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-01-29,2020,1,29,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-01-30,2020,1,30,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-01-31,2020,1,31,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-02-01,2020,2,1,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-02-02,2020,2,2,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-02-03,2020,2,3,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-02-04,2020,2,4,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-02-05,2020,2,5,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-02-06,2020,2,6,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-02-07,2020,2,7,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-02-08,2020,2,8,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-02-09,2020,2,9,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-02-10,2020,2,10,"Tempe, AZ",US,Other,1,34.0489,-111.094
+2020-01-21,2020,1,21,Macau,Macau,Other,0,22.1987,113.5439
+2020-01-22,2020,1,22,Macau,Macau,Other,1,22.1987,113.5439
+2020-01-23,2020,1,23,Macau,Macau,Other,2,22.1987,113.5439
+2020-01-24,2020,1,24,Macau,Macau,Other,2,22.1987,113.5439
+2020-01-25,2020,1,25,Macau,Macau,Other,2,22.1987,113.5439
+2020-01-26,2020,1,26,Macau,Macau,Other,6,22.1987,113.5439
+2020-01-27,2020,1,27,Macau,Macau,Other,6,22.1987,113.5439
+2020-01-28,2020,1,28,Macau,Macau,Other,7,22.1987,113.5439
+2020-01-29,2020,1,29,Macau,Macau,Other,7,22.1987,113.5439
+2020-01-30,2020,1,30,Macau,Macau,Other,7,22.1987,113.5439
+2020-01-31,2020,1,31,Macau,Macau,Other,7,22.1987,113.5439
+2020-02-01,2020,2,1,Macau,Macau,Other,7,22.1987,113.5439
+2020-02-02,2020,2,2,Macau,Macau,Other,8,22.1987,113.5439
+2020-02-03,2020,2,3,Macau,Macau,Other,8,22.1987,113.5439
+2020-02-04,2020,2,4,Macau,Macau,Other,10,22.1987,113.5439
+2020-02-05,2020,2,5,Macau,Macau,Other,10,22.1987,113.5439
+2020-02-06,2020,2,6,Macau,Macau,Other,10,22.1987,113.5439
+2020-02-07,2020,2,7,Macau,Macau,Other,10,22.1987,113.5439
+2020-02-08,2020,2,8,Macau,Macau,Other,10,22.1987,113.5439
+2020-02-09,2020,2,9,Macau,Macau,Other,10,22.1987,113.5439
+2020-02-10,2020,2,10,Macau,Macau,Other,10,22.1987,113.5439
+2020-01-21,2020,1,21,Hong Kong,Hong Kong,Other,0,22.3193,114.1694
+2020-01-22,2020,1,22,Hong Kong,Hong Kong,Other,0,22.3193,114.1694
+2020-01-23,2020,1,23,Hong Kong,Hong Kong,Other,2,22.3193,114.1694
+2020-01-24,2020,1,24,Hong Kong,Hong Kong,Other,2,22.3193,114.1694
+2020-01-25,2020,1,25,Hong Kong,Hong Kong,Other,5,22.3193,114.1694
+2020-01-26,2020,1,26,Hong Kong,Hong Kong,Other,8,22.3193,114.1694
+2020-01-27,2020,1,27,Hong Kong,Hong Kong,Other,8,22.3193,114.1694
+2020-01-28,2020,1,28,Hong Kong,Hong Kong,Other,8,22.3193,114.1694
+2020-01-29,2020,1,29,Hong Kong,Hong Kong,Other,10,22.3193,114.1694
+2020-01-30,2020,1,30,Hong Kong,Hong Kong,Other,10,22.3193,114.1694
+2020-01-31,2020,1,31,Hong Kong,Hong Kong,Other,12,22.3193,114.1694
+2020-02-01,2020,2,1,Hong Kong,Hong Kong,Other,13,22.3193,114.1694
+2020-02-02,2020,2,2,Hong Kong,Hong Kong,Other,15,22.3193,114.1694
+2020-02-03,2020,2,3,Hong Kong,Hong Kong,Other,15,22.3193,114.1694
+2020-02-04,2020,2,4,Hong Kong,Hong Kong,Other,18,22.3193,114.1694
+2020-02-05,2020,2,5,Hong Kong,Hong Kong,Other,21,22.3193,114.1694
+2020-02-06,2020,2,6,Hong Kong,Hong Kong,Other,24,22.3193,114.1694
+2020-02-07,2020,2,7,Hong Kong,Hong Kong,Other,26,22.3193,114.1694
+2020-02-08,2020,2,8,Hong Kong,Hong Kong,Other,26,22.3193,114.1694
+2020-02-09,2020,2,9,Hong Kong,Hong Kong,Other,36,22.3193,114.1694
+2020-02-10,2020,2,10,Hong Kong,Hong Kong,Other,38,22.3193,114.1694
+2020-01-21,2020,1,21,NA,Singapore,Other,0,1.3521,103.8198
+2020-01-22,2020,1,22,NA,Singapore,Other,0,1.3521,103.8198
+2020-01-23,2020,1,23,NA,Singapore,Other,1,1.3521,103.8198
+2020-01-24,2020,1,24,NA,Singapore,Other,3,1.3521,103.8198
+2020-01-25,2020,1,25,NA,Singapore,Other,3,1.3521,103.8198
+2020-01-26,2020,1,26,NA,Singapore,Other,4,1.3521,103.8198
+2020-01-27,2020,1,27,NA,Singapore,Other,5,1.3521,103.8198
+2020-01-28,2020,1,28,NA,Singapore,Other,7,1.3521,103.8198
+2020-01-29,2020,1,29,NA,Singapore,Other,10,1.3521,103.8198
+2020-01-30,2020,1,30,NA,Singapore,Other,10,1.3521,103.8198
+2020-01-31,2020,1,31,NA,Singapore,Other,13,1.3521,103.8198
+2020-02-01,2020,2,1,NA,Singapore,Other,18,1.3521,103.8198
+2020-02-02,2020,2,2,NA,Singapore,Other,18,1.3521,103.8198
+2020-02-03,2020,2,3,NA,Singapore,Other,18,1.3521,103.8198
+2020-02-04,2020,2,4,NA,Singapore,Other,24,1.3521,103.8198
+2020-02-05,2020,2,5,NA,Singapore,Other,28,1.3521,103.8198
+2020-02-06,2020,2,6,NA,Singapore,Other,28,1.3521,103.8198
+2020-02-07,2020,2,7,NA,Singapore,Other,30,1.3521,103.8198
+2020-02-08,2020,2,8,NA,Singapore,Other,40,1.3521,103.8198
+2020-02-09,2020,2,9,NA,Singapore,Other,43,1.3521,103.8198
+2020-02-10,2020,2,10,NA,Singapore,Other,43,1.3521,103.8198
+2020-01-21,2020,1,21,NA,Vietnam,Other,0,21.0278,105.8342
+2020-01-22,2020,1,22,NA,Vietnam,Other,0,21.0278,105.8342
+2020-01-23,2020,1,23,NA,Vietnam,Other,2,21.0278,105.8342
+2020-01-24,2020,1,24,NA,Vietnam,Other,2,21.0278,105.8342
+2020-01-25,2020,1,25,NA,Vietnam,Other,2,21.0278,105.8342
+2020-01-26,2020,1,26,NA,Vietnam,Other,2,21.0278,105.8342
+2020-01-27,2020,1,27,NA,Vietnam,Other,2,21.0278,105.8342
+2020-01-28,2020,1,28,NA,Vietnam,Other,2,21.0278,105.8342
+2020-01-29,2020,1,29,NA,Vietnam,Other,2,21.0278,105.8342
+2020-01-30,2020,1,30,NA,Vietnam,Other,2,21.0278,105.8342
+2020-01-31,2020,1,31,NA,Vietnam,Other,2,21.0278,105.8342
+2020-02-01,2020,2,1,NA,Vietnam,Other,6,21.0278,105.8342
+2020-02-02,2020,2,2,NA,Vietnam,Other,6,21.0278,105.8342
+2020-02-03,2020,2,3,NA,Vietnam,Other,8,21.0278,105.8342
+2020-02-04,2020,2,4,NA,Vietnam,Other,8,21.0278,105.8342
+2020-02-05,2020,2,5,NA,Vietnam,Other,10,21.0278,105.8342
+2020-02-06,2020,2,6,NA,Vietnam,Other,10,21.0278,105.8342
+2020-02-07,2020,2,7,NA,Vietnam,Other,10,21.0278,105.8342
+2020-02-08,2020,2,8,NA,Vietnam,Other,13,21.0278,105.8342
+2020-02-09,2020,2,9,NA,Vietnam,Other,14,21.0278,105.8342
+2020-02-10,2020,2,10,NA,Vietnam,Other,14,21.0278,105.8342
+2020-01-21,2020,1,21,NA,France,Other,0,46.2276,2.2137
+2020-01-22,2020,1,22,NA,France,Other,0,46.2276,2.2137
+2020-01-23,2020,1,23,NA,France,Other,0,46.2276,2.2137
+2020-01-24,2020,1,24,NA,France,Other,2,46.2276,2.2137
+2020-01-25,2020,1,25,NA,France,Other,3,46.2276,2.2137
+2020-01-26,2020,1,26,NA,France,Other,3,46.2276,2.2137
+2020-01-27,2020,1,27,NA,France,Other,3,46.2276,2.2137
+2020-01-28,2020,1,28,NA,France,Other,4,46.2276,2.2137
+2020-01-29,2020,1,29,NA,France,Other,5,46.2276,2.2137
+2020-01-30,2020,1,30,NA,France,Other,5,46.2276,2.2137
+2020-01-31,2020,1,31,NA,France,Other,5,46.2276,2.2137
+2020-02-01,2020,2,1,NA,France,Other,6,46.2276,2.2137
+2020-02-02,2020,2,2,NA,France,Other,6,46.2276,2.2137
+2020-02-03,2020,2,3,NA,France,Other,6,46.2276,2.2137
+2020-02-04,2020,2,4,NA,France,Other,6,46.2276,2.2137
+2020-02-05,2020,2,5,NA,France,Other,6,46.2276,2.2137
+2020-02-06,2020,2,6,NA,France,Other,6,46.2276,2.2137
+2020-02-07,2020,2,7,NA,France,Other,6,46.2276,2.2137
+2020-02-08,2020,2,8,NA,France,Other,11,46.2276,2.2137
+2020-02-09,2020,2,9,NA,France,Other,11,46.2276,2.2137
+2020-02-10,2020,2,10,NA,France,Other,11,46.2276,2.2137
+2020-01-21,2020,1,21,NA,Nepal,Other,0,28.3949,84.124
+2020-01-22,2020,1,22,NA,Nepal,Other,0,28.3949,84.124
+2020-01-23,2020,1,23,NA,Nepal,Other,0,28.3949,84.124
+2020-01-24,2020,1,24,NA,Nepal,Other,0,28.3949,84.124
+2020-01-25,2020,1,25,NA,Nepal,Other,1,28.3949,84.124
+2020-01-26,2020,1,26,NA,Nepal,Other,1,28.3949,84.124
+2020-01-27,2020,1,27,NA,Nepal,Other,1,28.3949,84.124
+2020-01-28,2020,1,28,NA,Nepal,Other,1,28.3949,84.124
+2020-01-29,2020,1,29,NA,Nepal,Other,1,28.3949,84.124
+2020-01-30,2020,1,30,NA,Nepal,Other,1,28.3949,84.124
+2020-01-31,2020,1,31,NA,Nepal,Other,1,28.3949,84.124
+2020-02-01,2020,2,1,NA,Nepal,Other,1,28.3949,84.124
+2020-02-02,2020,2,2,NA,Nepal,Other,1,28.3949,84.124
+2020-02-03,2020,2,3,NA,Nepal,Other,1,28.3949,84.124
+2020-02-04,2020,2,4,NA,Nepal,Other,1,28.3949,84.124
+2020-02-05,2020,2,5,NA,Nepal,Other,1,28.3949,84.124
+2020-02-06,2020,2,6,NA,Nepal,Other,1,28.3949,84.124
+2020-02-07,2020,2,7,NA,Nepal,Other,1,28.3949,84.124
+2020-02-08,2020,2,8,NA,Nepal,Other,1,28.3949,84.124
+2020-02-09,2020,2,9,NA,Nepal,Other,1,28.3949,84.124
+2020-02-10,2020,2,10,NA,Nepal,Other,1,28.3949,84.124
+2020-01-21,2020,1,21,NA,Malaysia,Other,0,4.2105,101.9758
+2020-01-22,2020,1,22,NA,Malaysia,Other,0,4.2105,101.9758
+2020-01-23,2020,1,23,NA,Malaysia,Other,0,4.2105,101.9758
+2020-01-24,2020,1,24,NA,Malaysia,Other,0,4.2105,101.9758
+2020-01-25,2020,1,25,NA,Malaysia,Other,3,4.2105,101.9758
+2020-01-26,2020,1,26,NA,Malaysia,Other,4,4.2105,101.9758
+2020-01-27,2020,1,27,NA,Malaysia,Other,4,4.2105,101.9758
+2020-01-28,2020,1,28,NA,Malaysia,Other,7,4.2105,101.9758
+2020-01-29,2020,1,29,NA,Malaysia,Other,7,4.2105,101.9758
+2020-01-30,2020,1,30,NA,Malaysia,Other,8,4.2105,101.9758
+2020-01-31,2020,1,31,NA,Malaysia,Other,8,4.2105,101.9758
+2020-02-01,2020,2,1,NA,Malaysia,Other,8,4.2105,101.9758
+2020-02-02,2020,2,2,NA,Malaysia,Other,8,4.2105,101.9758
+2020-02-03,2020,2,3,NA,Malaysia,Other,8,4.2105,101.9758
+2020-02-04,2020,2,4,NA,Malaysia,Other,10,4.2105,101.9758
+2020-02-05,2020,2,5,NA,Malaysia,Other,12,4.2105,101.9758
+2020-02-06,2020,2,6,NA,Malaysia,Other,12,4.2105,101.9758
+2020-02-07,2020,2,7,NA,Malaysia,Other,12,4.2105,101.9758
+2020-02-08,2020,2,8,NA,Malaysia,Other,16,4.2105,101.9758
+2020-02-09,2020,2,9,NA,Malaysia,Other,18,4.2105,101.9758
+2020-02-10,2020,2,10,NA,Malaysia,Other,18,4.2105,101.9758
+2020-01-21,2020,1,21,"Toronto, ON",Canada,Other,0,43.6532,-79.3832
+2020-01-22,2020,1,22,"Toronto, ON",Canada,Other,0,43.6532,-79.3832
+2020-01-23,2020,1,23,"Toronto, ON",Canada,Other,0,43.6532,-79.3832
+2020-01-24,2020,1,24,"Toronto, ON",Canada,Other,0,43.6532,-79.3832
+2020-01-25,2020,1,25,"Toronto, ON",Canada,Other,0,43.6532,-79.3832
+2020-01-26,2020,1,26,"Toronto, ON",Canada,Other,1,43.6532,-79.3832
+2020-01-27,2020,1,27,"Toronto, ON",Canada,Other,1,43.6532,-79.3832
+2020-01-28,2020,1,28,"Toronto, ON",Canada,Other,1,43.6532,-79.3832
+2020-01-29,2020,1,29,"Toronto, ON",Canada,Other,1,43.6532,-79.3832
+2020-01-30,2020,1,30,"Toronto, ON",Canada,Other,1,43.6532,-79.3832
+2020-01-31,2020,1,31,"Toronto, ON",Canada,Other,2,43.6532,-79.3832
+2020-02-01,2020,2,1,"Toronto, ON",Canada,Other,2,43.6532,-79.3832
+2020-02-02,2020,2,2,"Toronto, ON",Canada,Other,2,43.6532,-79.3832
+2020-02-03,2020,2,3,"Toronto, ON",Canada,Other,2,43.6532,-79.3832
+2020-02-04,2020,2,4,"Toronto, ON",Canada,Other,2,43.6532,-79.3832
+2020-02-05,2020,2,5,"Toronto, ON",Canada,Other,2,43.6532,-79.3832
+2020-02-06,2020,2,6,"Toronto, ON",Canada,Other,2,43.6532,-79.3832
+2020-02-07,2020,2,7,"Toronto, ON",Canada,Other,2,43.6532,-79.3832
+2020-02-08,2020,2,8,"Toronto, ON",Canada,Other,2,43.6532,-79.3832
+2020-02-09,2020,2,9,"Toronto, ON",Canada,Other,2,43.6532,-79.3832
+2020-02-10,2020,2,10,"Toronto, ON",Canada,Other,2,43.6532,-79.3832
+2020-01-21,2020,1,21,British Columbia,Canada,Other,0,49.2827,-123.121
+2020-01-22,2020,1,22,British Columbia,Canada,Other,0,49.2827,-123.121
+2020-01-23,2020,1,23,British Columbia,Canada,Other,0,49.2827,-123.121
+2020-01-24,2020,1,24,British Columbia,Canada,Other,0,49.2827,-123.121
+2020-01-25,2020,1,25,British Columbia,Canada,Other,0,49.2827,-123.121
+2020-01-26,2020,1,26,British Columbia,Canada,Other,0,49.2827,-123.121
+2020-01-27,2020,1,27,British Columbia,Canada,Other,0,49.2827,-123.121
+2020-01-28,2020,1,28,British Columbia,Canada,Other,1,49.2827,-123.121
+2020-01-29,2020,1,29,British Columbia,Canada,Other,1,49.2827,-123.121
+2020-01-30,2020,1,30,British Columbia,Canada,Other,1,49.2827,-123.121
+2020-01-31,2020,1,31,British Columbia,Canada,Other,1,49.2827,-123.121
+2020-02-01,2020,2,1,British Columbia,Canada,Other,1,49.2827,-123.121
+2020-02-02,2020,2,2,British Columbia,Canada,Other,1,49.2827,-123.121
+2020-02-03,2020,2,3,British Columbia,Canada,Other,1,49.2827,-123.121
+2020-02-04,2020,2,4,British Columbia,Canada,Other,1,49.2827,-123.121
+2020-02-05,2020,2,5,British Columbia,Canada,Other,2,49.2827,-123.121
+2020-02-06,2020,2,6,British Columbia,Canada,Other,2,49.2827,-123.121
+2020-02-07,2020,2,7,British Columbia,Canada,Other,4,49.2827,-123.121
+2020-02-08,2020,2,8,British Columbia,Canada,Other,4,49.2827,-123.121
+2020-02-09,2020,2,9,British Columbia,Canada,Other,4,49.2827,-123.121
+2020-02-10,2020,2,10,British Columbia,Canada,Other,4,49.2827,-123.121
+2020-01-21,2020,1,21,"Orange, CA",US,Other,0,33.7879,-117.8531
+2020-01-22,2020,1,22,"Orange, CA",US,Other,0,33.7879,-117.8531
+2020-01-23,2020,1,23,"Orange, CA",US,Other,0,33.7879,-117.8531
+2020-01-24,2020,1,24,"Orange, CA",US,Other,0,33.7879,-117.8531
+2020-01-25,2020,1,25,"Orange, CA",US,Other,0,33.7879,-117.8531
+2020-01-26,2020,1,26,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-01-27,2020,1,27,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-01-28,2020,1,28,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-01-29,2020,1,29,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-01-30,2020,1,30,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-01-31,2020,1,31,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-02-01,2020,2,1,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-02-02,2020,2,2,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-02-03,2020,2,3,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-02-04,2020,2,4,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-02-05,2020,2,5,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-02-06,2020,2,6,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-02-07,2020,2,7,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-02-08,2020,2,8,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-02-09,2020,2,9,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-02-10,2020,2,10,"Orange, CA",US,Other,1,33.7879,-117.8531
+2020-01-21,2020,1,21,"Los Angeles, CA",US,Other,0,34.0522,-118.2437
+2020-01-22,2020,1,22,"Los Angeles, CA",US,Other,0,34.0522,-118.2437
+2020-01-23,2020,1,23,"Los Angeles, CA",US,Other,0,34.0522,-118.2437
+2020-01-24,2020,1,24,"Los Angeles, CA",US,Other,0,34.0522,-118.2437
+2020-01-25,2020,1,25,"Los Angeles, CA",US,Other,0,34.0522,-118.2437
+2020-01-26,2020,1,26,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-01-27,2020,1,27,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-01-28,2020,1,28,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-01-29,2020,1,29,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-01-30,2020,1,30,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-01-31,2020,1,31,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-02-01,2020,2,1,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-02-02,2020,2,2,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-02-03,2020,2,3,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-02-04,2020,2,4,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-02-05,2020,2,5,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-02-06,2020,2,6,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-02-07,2020,2,7,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-02-08,2020,2,8,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-02-09,2020,2,9,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-02-10,2020,2,10,"Los Angeles, CA",US,Other,1,34.0522,-118.2437
+2020-01-21,2020,1,21,New South Wales,Australia,Other,0,-33.8688,151.2093
+2020-01-22,2020,1,22,New South Wales,Australia,Other,0,-33.8688,151.2093
+2020-01-23,2020,1,23,New South Wales,Australia,Other,0,-33.8688,151.2093
+2020-01-24,2020,1,24,New South Wales,Australia,Other,0,-33.8688,151.2093
+2020-01-25,2020,1,25,New South Wales,Australia,Other,0,-33.8688,151.2093
+2020-01-26,2020,1,26,New South Wales,Australia,Other,3,-33.8688,151.2093
+2020-01-27,2020,1,27,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-01-28,2020,1,28,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-01-29,2020,1,29,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-01-30,2020,1,30,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-01-31,2020,1,31,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-02-01,2020,2,1,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-02-02,2020,2,2,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-02-03,2020,2,3,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-02-04,2020,2,4,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-02-05,2020,2,5,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-02-06,2020,2,6,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-02-07,2020,2,7,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-02-08,2020,2,8,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-02-09,2020,2,9,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-02-10,2020,2,10,New South Wales,Australia,Other,4,-33.8688,151.2093
+2020-01-21,2020,1,21,Victoria,Australia,Other,0,-37.8136,144.9631
+2020-01-22,2020,1,22,Victoria,Australia,Other,0,-37.8136,144.9631
+2020-01-23,2020,1,23,Victoria,Australia,Other,0,-37.8136,144.9631
+2020-01-24,2020,1,24,Victoria,Australia,Other,0,-37.8136,144.9631
+2020-01-25,2020,1,25,Victoria,Australia,Other,0,-37.8136,144.9631
+2020-01-26,2020,1,26,Victoria,Australia,Other,1,-37.8136,144.9631
+2020-01-27,2020,1,27,Victoria,Australia,Other,1,-37.8136,144.9631
+2020-01-28,2020,1,28,Victoria,Australia,Other,1,-37.8136,144.9631
+2020-01-29,2020,1,29,Victoria,Australia,Other,2,-37.8136,144.9631
+2020-01-30,2020,1,30,Victoria,Australia,Other,3,-37.8136,144.9631
+2020-01-31,2020,1,31,Victoria,Australia,Other,3,-37.8136,144.9631
+2020-02-01,2020,2,1,Victoria,Australia,Other,4,-37.8136,144.9631
+2020-02-02,2020,2,2,Victoria,Australia,Other,4,-37.8136,144.9631
+2020-02-03,2020,2,3,Victoria,Australia,Other,4,-37.8136,144.9631
+2020-02-04,2020,2,4,Victoria,Australia,Other,4,-37.8136,144.9631
+2020-02-05,2020,2,5,Victoria,Australia,Other,4,-37.8136,144.9631
+2020-02-06,2020,2,6,Victoria,Australia,Other,4,-37.8136,144.9631
+2020-02-07,2020,2,7,Victoria,Australia,Other,4,-37.8136,144.9631
+2020-02-08,2020,2,8,Victoria,Australia,Other,4,-37.8136,144.9631
+2020-02-09,2020,2,9,Victoria,Australia,Other,4,-37.8136,144.9631
+2020-02-10,2020,2,10,Victoria,Australia,Other,4,-37.8136,144.9631
+2020-01-21,2020,1,21,Queensland,Australia,Other,0,-27.4698,153.0251
+2020-01-22,2020,1,22,Queensland,Australia,Other,0,-27.4698,153.0251
+2020-01-23,2020,1,23,Queensland,Australia,Other,0,-27.4698,153.0251
+2020-01-24,2020,1,24,Queensland,Australia,Other,0,-27.4698,153.0251
+2020-01-25,2020,1,25,Queensland,Australia,Other,0,-27.4698,153.0251
+2020-01-26,2020,1,26,Queensland,Australia,Other,0,-27.4698,153.0251
+2020-01-27,2020,1,27,Queensland,Australia,Other,0,-27.4698,153.0251
+2020-01-28,2020,1,28,Queensland,Australia,Other,0,-27.4698,153.0251
+2020-01-29,2020,1,29,Queensland,Australia,Other,1,-27.4698,153.0251
+2020-01-30,2020,1,30,Queensland,Australia,Other,2,-27.4698,153.0251
+2020-01-31,2020,1,31,Queensland,Australia,Other,2,-27.4698,153.0251
+2020-02-01,2020,2,1,Queensland,Australia,Other,2,-27.4698,153.0251
+2020-02-02,2020,2,2,Queensland,Australia,Other,2,-27.4698,153.0251
+2020-02-03,2020,2,3,Queensland,Australia,Other,2,-27.4698,153.0251
+2020-02-04,2020,2,4,Queensland,Australia,Other,3,-27.4698,153.0251
+2020-02-05,2020,2,5,Queensland,Australia,Other,4,-27.4698,153.0251
+2020-02-06,2020,2,6,Queensland,Australia,Other,4,-27.4698,153.0251
+2020-02-07,2020,2,7,Queensland,Australia,Other,5,-27.4698,153.0251
+2020-02-08,2020,2,8,Queensland,Australia,Other,5,-27.4698,153.0251
+2020-02-09,2020,2,9,Queensland,Australia,Other,5,-27.4698,153.0251
+2020-02-10,2020,2,10,Queensland,Australia,Other,5,-27.4698,153.0251
+2020-01-21,2020,1,21,NA,Cambodia,Other,0,12.5657,104.991
+2020-01-22,2020,1,22,NA,Cambodia,Other,0,12.5657,104.991
+2020-01-23,2020,1,23,NA,Cambodia,Other,0,12.5657,104.991
+2020-01-24,2020,1,24,NA,Cambodia,Other,0,12.5657,104.991
+2020-01-25,2020,1,25,NA,Cambodia,Other,0,12.5657,104.991
+2020-01-26,2020,1,26,NA,Cambodia,Other,0,12.5657,104.991
+2020-01-27,2020,1,27,NA,Cambodia,Other,1,12.5657,104.991
+2020-01-28,2020,1,28,NA,Cambodia,Other,1,12.5657,104.991
+2020-01-29,2020,1,29,NA,Cambodia,Other,1,12.5657,104.991
+2020-01-30,2020,1,30,NA,Cambodia,Other,1,12.5657,104.991
+2020-01-31,2020,1,31,NA,Cambodia,Other,1,12.5657,104.991
+2020-02-01,2020,2,1,NA,Cambodia,Other,1,12.5657,104.991
+2020-02-02,2020,2,2,NA,Cambodia,Other,1,12.5657,104.991
+2020-02-03,2020,2,3,NA,Cambodia,Other,1,12.5657,104.991
+2020-02-04,2020,2,4,NA,Cambodia,Other,1,12.5657,104.991
+2020-02-05,2020,2,5,NA,Cambodia,Other,1,12.5657,104.991
+2020-02-06,2020,2,6,NA,Cambodia,Other,1,12.5657,104.991
+2020-02-07,2020,2,7,NA,Cambodia,Other,1,12.5657,104.991
+2020-02-08,2020,2,8,NA,Cambodia,Other,1,12.5657,104.991
+2020-02-09,2020,2,9,NA,Cambodia,Other,1,12.5657,104.991
+2020-02-10,2020,2,10,NA,Cambodia,Other,1,12.5657,104.991
+2020-01-21,2020,1,21,NA,Sri Lanka,Other,0,7.8731,80.7718
+2020-01-22,2020,1,22,NA,Sri Lanka,Other,0,7.8731,80.7718
+2020-01-23,2020,1,23,NA,Sri Lanka,Other,0,7.8731,80.7718
+2020-01-24,2020,1,24,NA,Sri Lanka,Other,0,7.8731,80.7718
+2020-01-25,2020,1,25,NA,Sri Lanka,Other,0,7.8731,80.7718
+2020-01-26,2020,1,26,NA,Sri Lanka,Other,0,7.8731,80.7718
+2020-01-27,2020,1,27,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-01-28,2020,1,28,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-01-29,2020,1,29,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-01-30,2020,1,30,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-01-31,2020,1,31,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-02-01,2020,2,1,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-02-02,2020,2,2,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-02-03,2020,2,3,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-02-04,2020,2,4,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-02-05,2020,2,5,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-02-06,2020,2,6,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-02-07,2020,2,7,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-02-08,2020,2,8,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-02-09,2020,2,9,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-02-10,2020,2,10,NA,Sri Lanka,Other,1,7.8731,80.7718
+2020-01-21,2020,1,21,NA,Germany,Other,0,51.1657,10.4515
+2020-01-22,2020,1,22,NA,Germany,Other,0,51.1657,10.4515
+2020-01-23,2020,1,23,NA,Germany,Other,0,51.1657,10.4515
+2020-01-24,2020,1,24,NA,Germany,Other,0,51.1657,10.4515
+2020-01-25,2020,1,25,NA,Germany,Other,0,51.1657,10.4515
+2020-01-26,2020,1,26,NA,Germany,Other,0,51.1657,10.4515
+2020-01-27,2020,1,27,NA,Germany,Other,1,51.1657,10.4515
+2020-01-28,2020,1,28,NA,Germany,Other,4,51.1657,10.4515
+2020-01-29,2020,1,29,NA,Germany,Other,4,51.1657,10.4515
+2020-01-30,2020,1,30,NA,Germany,Other,4,51.1657,10.4515
+2020-01-31,2020,1,31,NA,Germany,Other,5,51.1657,10.4515
+2020-02-01,2020,2,1,NA,Germany,Other,7,51.1657,10.4515
+2020-02-02,2020,2,2,NA,Germany,Other,10,51.1657,10.4515
+2020-02-03,2020,2,3,NA,Germany,Other,10,51.1657,10.4515
+2020-02-04,2020,2,4,NA,Germany,Other,12,51.1657,10.4515
+2020-02-05,2020,2,5,NA,Germany,Other,12,51.1657,10.4515
+2020-02-06,2020,2,6,NA,Germany,Other,12,51.1657,10.4515
+2020-02-07,2020,2,7,NA,Germany,Other,13,51.1657,10.4515
+2020-02-08,2020,2,8,NA,Germany,Other,13,51.1657,10.4515
+2020-02-09,2020,2,9,NA,Germany,Other,14,51.1657,10.4515
+2020-02-10,2020,2,10,NA,Germany,Other,14,51.1657,10.4515
+2020-01-21,2020,1,21,NA,Finland,Other,0,61.9241,25.7482
+2020-01-22,2020,1,22,NA,Finland,Other,0,61.9241,25.7482
+2020-01-23,2020,1,23,NA,Finland,Other,0,61.9241,25.7482
+2020-01-24,2020,1,24,NA,Finland,Other,0,61.9241,25.7482
+2020-01-25,2020,1,25,NA,Finland,Other,0,61.9241,25.7482
+2020-01-26,2020,1,26,NA,Finland,Other,0,61.9241,25.7482
+2020-01-27,2020,1,27,NA,Finland,Other,0,61.9241,25.7482
+2020-01-28,2020,1,28,NA,Finland,Other,0,61.9241,25.7482
+2020-01-29,2020,1,29,NA,Finland,Other,1,61.9241,25.7482
+2020-01-30,2020,1,30,NA,Finland,Other,1,61.9241,25.7482
+2020-01-31,2020,1,31,NA,Finland,Other,1,61.9241,25.7482
+2020-02-01,2020,2,1,NA,Finland,Other,1,61.9241,25.7482
+2020-02-02,2020,2,2,NA,Finland,Other,1,61.9241,25.7482
+2020-02-03,2020,2,3,NA,Finland,Other,1,61.9241,25.7482
+2020-02-04,2020,2,4,NA,Finland,Other,1,61.9241,25.7482
+2020-02-05,2020,2,5,NA,Finland,Other,1,61.9241,25.7482
+2020-02-06,2020,2,6,NA,Finland,Other,1,61.9241,25.7482
+2020-02-07,2020,2,7,NA,Finland,Other,1,61.9241,25.7482
+2020-02-08,2020,2,8,NA,Finland,Other,1,61.9241,25.7482
+2020-02-09,2020,2,9,NA,Finland,Other,1,61.9241,25.7482
+2020-02-10,2020,2,10,NA,Finland,Other,1,61.9241,25.7482
+2020-01-21,2020,1,21,NA,United Arab Emirates,Other,0,23.4241,53.8478
+2020-01-22,2020,1,22,NA,United Arab Emirates,Other,0,23.4241,53.8478
+2020-01-23,2020,1,23,NA,United Arab Emirates,Other,0,23.4241,53.8478
+2020-01-24,2020,1,24,NA,United Arab Emirates,Other,0,23.4241,53.8478
+2020-01-25,2020,1,25,NA,United Arab Emirates,Other,0,23.4241,53.8478
+2020-01-26,2020,1,26,NA,United Arab Emirates,Other,0,23.4241,53.8478
+2020-01-27,2020,1,27,NA,United Arab Emirates,Other,0,23.4241,53.8478
+2020-01-28,2020,1,28,NA,United Arab Emirates,Other,0,23.4241,53.8478
+2020-01-29,2020,1,29,NA,United Arab Emirates,Other,4,23.4241,53.8478
+2020-01-30,2020,1,30,NA,United Arab Emirates,Other,4,23.4241,53.8478
+2020-01-31,2020,1,31,NA,United Arab Emirates,Other,4,23.4241,53.8478
+2020-02-01,2020,2,1,NA,United Arab Emirates,Other,4,23.4241,53.8478
+2020-02-02,2020,2,2,NA,United Arab Emirates,Other,5,23.4241,53.8478
+2020-02-03,2020,2,3,NA,United Arab Emirates,Other,5,23.4241,53.8478
+2020-02-04,2020,2,4,NA,United Arab Emirates,Other,5,23.4241,53.8478
+2020-02-05,2020,2,5,NA,United Arab Emirates,Other,5,23.4241,53.8478
+2020-02-06,2020,2,6,NA,United Arab Emirates,Other,5,23.4241,53.8478
+2020-02-07,2020,2,7,NA,United Arab Emirates,Other,5,23.4241,53.8478
+2020-02-08,2020,2,8,NA,United Arab Emirates,Other,7,23.4241,53.8478
+2020-02-09,2020,2,9,NA,United Arab Emirates,Other,7,23.4241,53.8478
+2020-02-10,2020,2,10,NA,United Arab Emirates,Other,7,23.4241,53.8478
+2020-01-21,2020,1,21,NA,Philippines,Other,0,12.8797,121.774
+2020-01-22,2020,1,22,NA,Philippines,Other,0,12.8797,121.774
+2020-01-23,2020,1,23,NA,Philippines,Other,0,12.8797,121.774
+2020-01-24,2020,1,24,NA,Philippines,Other,0,12.8797,121.774
+2020-01-25,2020,1,25,NA,Philippines,Other,0,12.8797,121.774
+2020-01-26,2020,1,26,NA,Philippines,Other,0,12.8797,121.774
+2020-01-27,2020,1,27,NA,Philippines,Other,0,12.8797,121.774
+2020-01-28,2020,1,28,NA,Philippines,Other,0,12.8797,121.774
+2020-01-29,2020,1,29,NA,Philippines,Other,0,12.8797,121.774
+2020-01-30,2020,1,30,NA,Philippines,Other,1,12.8797,121.774
+2020-01-31,2020,1,31,NA,Philippines,Other,1,12.8797,121.774
+2020-02-01,2020,2,1,NA,Philippines,Other,1,12.8797,121.774
+2020-02-02,2020,2,2,NA,Philippines,Other,2,12.8797,121.774
+2020-02-03,2020,2,3,NA,Philippines,Other,2,12.8797,121.774
+2020-02-04,2020,2,4,NA,Philippines,Other,2,12.8797,121.774
+2020-02-05,2020,2,5,NA,Philippines,Other,2,12.8797,121.774
+2020-02-06,2020,2,6,NA,Philippines,Other,2,12.8797,121.774
+2020-02-07,2020,2,7,NA,Philippines,Other,3,12.8797,121.774
+2020-02-08,2020,2,8,NA,Philippines,Other,3,12.8797,121.774
+2020-02-09,2020,2,9,NA,Philippines,Other,3,12.8797,121.774
+2020-02-10,2020,2,10,NA,Philippines,Other,3,12.8797,121.774
+2020-01-21,2020,1,21,NA,India,Other,0,20.5937,78.9629
+2020-01-22,2020,1,22,NA,India,Other,0,20.5937,78.9629
+2020-01-23,2020,1,23,NA,India,Other,0,20.5937,78.9629
+2020-01-24,2020,1,24,NA,India,Other,0,20.5937,78.9629
+2020-01-25,2020,1,25,NA,India,Other,0,20.5937,78.9629
+2020-01-26,2020,1,26,NA,India,Other,0,20.5937,78.9629
+2020-01-27,2020,1,27,NA,India,Other,0,20.5937,78.9629
+2020-01-28,2020,1,28,NA,India,Other,0,20.5937,78.9629
+2020-01-29,2020,1,29,NA,India,Other,0,20.5937,78.9629
+2020-01-30,2020,1,30,NA,India,Other,1,20.5937,78.9629
+2020-01-31,2020,1,31,NA,India,Other,1,20.5937,78.9629
+2020-02-01,2020,2,1,NA,India,Other,1,20.5937,78.9629
+2020-02-02,2020,2,2,NA,India,Other,2,20.5937,78.9629
+2020-02-03,2020,2,3,NA,India,Other,2,20.5937,78.9629
+2020-02-04,2020,2,4,NA,India,Other,3,20.5937,78.9629
+2020-02-05,2020,2,5,NA,India,Other,3,20.5937,78.9629
+2020-02-06,2020,2,6,NA,India,Other,3,20.5937,78.9629
+2020-02-07,2020,2,7,NA,India,Other,3,20.5937,78.9629
+2020-02-08,2020,2,8,NA,India,Other,3,20.5937,78.9629
+2020-02-09,2020,2,9,NA,India,Other,3,20.5937,78.9629
+2020-02-10,2020,2,10,NA,India,Other,3,20.5937,78.9629
+2020-01-21,2020,1,21,"London, ON",Canada,Other,0,42.9849,-81.2453
+2020-01-22,2020,1,22,"London, ON",Canada,Other,0,42.9849,-81.2453
+2020-01-23,2020,1,23,"London, ON",Canada,Other,0,42.9849,-81.2453
+2020-01-24,2020,1,24,"London, ON",Canada,Other,0,42.9849,-81.2453
+2020-01-25,2020,1,25,"London, ON",Canada,Other,0,42.9849,-81.2453
+2020-01-26,2020,1,26,"London, ON",Canada,Other,0,42.9849,-81.2453
+2020-01-27,2020,1,27,"London, ON",Canada,Other,0,42.9849,-81.2453
+2020-01-28,2020,1,28,"London, ON",Canada,Other,0,42.9849,-81.2453
+2020-01-29,2020,1,29,"London, ON",Canada,Other,0,42.9849,-81.2453
+2020-01-30,2020,1,30,"London, ON",Canada,Other,0,42.9849,-81.2453
+2020-01-31,2020,1,31,"London, ON",Canada,Other,1,42.9849,-81.2453
+2020-02-01,2020,2,1,"London, ON",Canada,Other,1,42.9849,-81.2453
+2020-02-02,2020,2,2,"London, ON",Canada,Other,1,42.9849,-81.2453
+2020-02-03,2020,2,3,"London, ON",Canada,Other,1,42.9849,-81.2453
+2020-02-04,2020,2,4,"London, ON",Canada,Other,1,42.9849,-81.2453
+2020-02-05,2020,2,5,"London, ON",Canada,Other,1,42.9849,-81.2453
+2020-02-06,2020,2,6,"London, ON",Canada,Other,1,42.9849,-81.2453
+2020-02-07,2020,2,7,"London, ON",Canada,Other,1,42.9849,-81.2453
+2020-02-08,2020,2,8,"London, ON",Canada,Other,1,42.9849,-81.2453
+2020-02-09,2020,2,9,"London, ON",Canada,Other,1,42.9849,-81.2453
+2020-02-10,2020,2,10,"London, ON",Canada,Other,1,42.9849,-81.2453
+2020-01-21,2020,1,21,NA,Italy,Other,0,41.8719,12.5674
+2020-01-22,2020,1,22,NA,Italy,Other,0,41.8719,12.5674
+2020-01-23,2020,1,23,NA,Italy,Other,0,41.8719,12.5674
+2020-01-24,2020,1,24,NA,Italy,Other,0,41.8719,12.5674
+2020-01-25,2020,1,25,NA,Italy,Other,0,41.8719,12.5674
+2020-01-26,2020,1,26,NA,Italy,Other,0,41.8719,12.5674
+2020-01-27,2020,1,27,NA,Italy,Other,0,41.8719,12.5674
+2020-01-28,2020,1,28,NA,Italy,Other,0,41.8719,12.5674
+2020-01-29,2020,1,29,NA,Italy,Other,0,41.8719,12.5674
+2020-01-30,2020,1,30,NA,Italy,Other,0,41.8719,12.5674
+2020-01-31,2020,1,31,NA,Italy,Other,2,41.8719,12.5674
+2020-02-01,2020,2,1,NA,Italy,Other,2,41.8719,12.5674
+2020-02-02,2020,2,2,NA,Italy,Other,2,41.8719,12.5674
+2020-02-03,2020,2,3,NA,Italy,Other,2,41.8719,12.5674
+2020-02-04,2020,2,4,NA,Italy,Other,2,41.8719,12.5674
+2020-02-05,2020,2,5,NA,Italy,Other,2,41.8719,12.5674
+2020-02-06,2020,2,6,NA,Italy,Other,2,41.8719,12.5674
+2020-02-07,2020,2,7,NA,Italy,Other,3,41.8719,12.5674
+2020-02-08,2020,2,8,NA,Italy,Other,3,41.8719,12.5674
+2020-02-09,2020,2,9,NA,Italy,Other,3,41.8719,12.5674
+2020-02-10,2020,2,10,NA,Italy,Other,3,41.8719,12.5674
+2020-01-21,2020,1,21,NA,UK,Other,0,55.3781,-3.436
+2020-01-22,2020,1,22,NA,UK,Other,0,55.3781,-3.436
+2020-01-23,2020,1,23,NA,UK,Other,0,55.3781,-3.436
+2020-01-24,2020,1,24,NA,UK,Other,0,55.3781,-3.436
+2020-01-25,2020,1,25,NA,UK,Other,0,55.3781,-3.436
+2020-01-26,2020,1,26,NA,UK,Other,0,55.3781,-3.436
+2020-01-27,2020,1,27,NA,UK,Other,0,55.3781,-3.436
+2020-01-28,2020,1,28,NA,UK,Other,0,55.3781,-3.436
+2020-01-29,2020,1,29,NA,UK,Other,0,55.3781,-3.436
+2020-01-30,2020,1,30,NA,UK,Other,0,55.3781,-3.436
+2020-01-31,2020,1,31,NA,UK,Other,2,55.3781,-3.436
+2020-02-01,2020,2,1,NA,UK,Other,2,55.3781,-3.436
+2020-02-02,2020,2,2,NA,UK,Other,2,55.3781,-3.436
+2020-02-03,2020,2,3,NA,UK,Other,2,55.3781,-3.436
+2020-02-04,2020,2,4,NA,UK,Other,2,55.3781,-3.436
+2020-02-05,2020,2,5,NA,UK,Other,2,55.3781,-3.436
+2020-02-06,2020,2,6,NA,UK,Other,2,55.3781,-3.436
+2020-02-07,2020,2,7,NA,UK,Other,3,55.3781,-3.436
+2020-02-08,2020,2,8,NA,UK,Other,3,55.3781,-3.436
+2020-02-09,2020,2,9,NA,UK,Other,3,55.3781,-3.436
+2020-02-10,2020,2,10,NA,UK,Other,3,55.3781,-3.436
+2020-01-21,2020,1,21,NA,Russia,Other,0,61.524,105.3188
+2020-01-22,2020,1,22,NA,Russia,Other,0,61.524,105.3188
+2020-01-23,2020,1,23,NA,Russia,Other,0,61.524,105.3188
+2020-01-24,2020,1,24,NA,Russia,Other,0,61.524,105.3188
+2020-01-25,2020,1,25,NA,Russia,Other,0,61.524,105.3188
+2020-01-26,2020,1,26,NA,Russia,Other,0,61.524,105.3188
+2020-01-27,2020,1,27,NA,Russia,Other,0,61.524,105.3188
+2020-01-28,2020,1,28,NA,Russia,Other,0,61.524,105.3188
+2020-01-29,2020,1,29,NA,Russia,Other,0,61.524,105.3188
+2020-01-30,2020,1,30,NA,Russia,Other,0,61.524,105.3188
+2020-01-31,2020,1,31,NA,Russia,Other,2,61.524,105.3188
+2020-02-01,2020,2,1,NA,Russia,Other,2,61.524,105.3188
+2020-02-02,2020,2,2,NA,Russia,Other,2,61.524,105.3188
+2020-02-03,2020,2,3,NA,Russia,Other,2,61.524,105.3188
+2020-02-04,2020,2,4,NA,Russia,Other,2,61.524,105.3188
+2020-02-05,2020,2,5,NA,Russia,Other,2,61.524,105.3188
+2020-02-06,2020,2,6,NA,Russia,Other,2,61.524,105.3188
+2020-02-07,2020,2,7,NA,Russia,Other,2,61.524,105.3188
+2020-02-08,2020,2,8,NA,Russia,Other,2,61.524,105.3188
+2020-02-09,2020,2,9,NA,Russia,Other,2,61.524,105.3188
+2020-02-10,2020,2,10,NA,Russia,Other,2,61.524,105.3188
+2020-01-21,2020,1,21,NA,Sweden,Other,0,60.1282,18.6435
+2020-01-22,2020,1,22,NA,Sweden,Other,0,60.1282,18.6435
+2020-01-23,2020,1,23,NA,Sweden,Other,0,60.1282,18.6435
+2020-01-24,2020,1,24,NA,Sweden,Other,0,60.1282,18.6435
+2020-01-25,2020,1,25,NA,Sweden,Other,0,60.1282,18.6435
+2020-01-26,2020,1,26,NA,Sweden,Other,0,60.1282,18.6435
+2020-01-27,2020,1,27,NA,Sweden,Other,0,60.1282,18.6435
+2020-01-28,2020,1,28,NA,Sweden,Other,0,60.1282,18.6435
+2020-01-29,2020,1,29,NA,Sweden,Other,0,60.1282,18.6435
+2020-01-30,2020,1,30,NA,Sweden,Other,0,60.1282,18.6435
+2020-01-31,2020,1,31,NA,Sweden,Other,1,60.1282,18.6435
+2020-02-01,2020,2,1,NA,Sweden,Other,1,60.1282,18.6435
+2020-02-02,2020,2,2,NA,Sweden,Other,1,60.1282,18.6435
+2020-02-03,2020,2,3,NA,Sweden,Other,1,60.1282,18.6435
+2020-02-04,2020,2,4,NA,Sweden,Other,1,60.1282,18.6435
+2020-02-05,2020,2,5,NA,Sweden,Other,1,60.1282,18.6435
+2020-02-06,2020,2,6,NA,Sweden,Other,1,60.1282,18.6435
+2020-02-07,2020,2,7,NA,Sweden,Other,1,60.1282,18.6435
+2020-02-08,2020,2,8,NA,Sweden,Other,1,60.1282,18.6435
+2020-02-09,2020,2,9,NA,Sweden,Other,1,60.1282,18.6435
+2020-02-10,2020,2,10,NA,Sweden,Other,1,60.1282,18.6435
+2020-01-21,2020,1,21,"Santa Clara, CA",US,Other,0,37.3541,-121.9552
+2020-01-22,2020,1,22,"Santa Clara, CA",US,Other,0,37.3541,-121.9552
+2020-01-23,2020,1,23,"Santa Clara, CA",US,Other,0,37.3541,-121.9552
+2020-01-24,2020,1,24,"Santa Clara, CA",US,Other,0,37.3541,-121.9552
+2020-01-25,2020,1,25,"Santa Clara, CA",US,Other,0,37.3541,-121.9552
+2020-01-26,2020,1,26,"Santa Clara, CA",US,Other,0,37.3541,-121.9552
+2020-01-27,2020,1,27,"Santa Clara, CA",US,Other,0,37.3541,-121.9552
+2020-01-28,2020,1,28,"Santa Clara, CA",US,Other,0,37.3541,-121.9552
+2020-01-29,2020,1,29,"Santa Clara, CA",US,Other,0,37.3541,-121.9552
+2020-01-30,2020,1,30,"Santa Clara, CA",US,Other,0,37.3541,-121.9552
+2020-01-31,2020,1,31,"Santa Clara, CA",US,Other,1,37.3541,-121.9552
+2020-02-01,2020,2,1,"Santa Clara, CA",US,Other,1,37.3541,-121.9552
+2020-02-02,2020,2,2,"Santa Clara, CA",US,Other,1,37.3541,-121.9552
+2020-02-03,2020,2,3,"Santa Clara, CA",US,Other,1,37.3541,-121.9552
+2020-02-04,2020,2,4,"Santa Clara, CA",US,Other,2,37.3541,-121.9552
+2020-02-05,2020,2,5,"Santa Clara, CA",US,Other,2,37.3541,-121.9552
+2020-02-06,2020,2,6,"Santa Clara, CA",US,Other,2,37.3541,-121.9552
+2020-02-07,2020,2,7,"Santa Clara, CA",US,Other,2,37.3541,-121.9552
+2020-02-08,2020,2,8,"Santa Clara, CA",US,Other,2,37.3541,-121.9552
+2020-02-09,2020,2,9,"Santa Clara, CA",US,Other,2,37.3541,-121.9552
+2020-02-10,2020,2,10,"Santa Clara, CA",US,Other,2,37.3541,-121.9552
+2020-01-21,2020,1,21,NA,Spain,Other,0,40.4637,-3.7492
+2020-01-22,2020,1,22,NA,Spain,Other,0,40.4637,-3.7492
+2020-01-23,2020,1,23,NA,Spain,Other,0,40.4637,-3.7492
+2020-01-24,2020,1,24,NA,Spain,Other,0,40.4637,-3.7492
+2020-01-25,2020,1,25,NA,Spain,Other,0,40.4637,-3.7492
+2020-01-26,2020,1,26,NA,Spain,Other,0,40.4637,-3.7492
+2020-01-27,2020,1,27,NA,Spain,Other,0,40.4637,-3.7492
+2020-01-28,2020,1,28,NA,Spain,Other,0,40.4637,-3.7492
+2020-01-29,2020,1,29,NA,Spain,Other,0,40.4637,-3.7492
+2020-01-30,2020,1,30,NA,Spain,Other,0,40.4637,-3.7492
+2020-01-31,2020,1,31,NA,Spain,Other,0,40.4637,-3.7492
+2020-02-01,2020,2,1,NA,Spain,Other,1,40.4637,-3.7492
+2020-02-02,2020,2,2,NA,Spain,Other,1,40.4637,-3.7492
+2020-02-03,2020,2,3,NA,Spain,Other,1,40.4637,-3.7492
+2020-02-04,2020,2,4,NA,Spain,Other,1,40.4637,-3.7492
+2020-02-05,2020,2,5,NA,Spain,Other,1,40.4637,-3.7492
+2020-02-06,2020,2,6,NA,Spain,Other,1,40.4637,-3.7492
+2020-02-07,2020,2,7,NA,Spain,Other,1,40.4637,-3.7492
+2020-02-08,2020,2,8,NA,Spain,Other,1,40.4637,-3.7492
+2020-02-09,2020,2,9,NA,Spain,Other,2,40.4637,-3.7492
+2020-02-10,2020,2,10,NA,Spain,Other,2,40.4637,-3.7492
+2020-01-21,2020,1,21,South Australia,Australia,Other,0,-34.9285,138.6007
+2020-01-22,2020,1,22,South Australia,Australia,Other,0,-34.9285,138.6007
+2020-01-23,2020,1,23,South Australia,Australia,Other,0,-34.9285,138.6007
+2020-01-24,2020,1,24,South Australia,Australia,Other,0,-34.9285,138.6007
+2020-01-25,2020,1,25,South Australia,Australia,Other,0,-34.9285,138.6007
+2020-01-26,2020,1,26,South Australia,Australia,Other,0,-34.9285,138.6007
+2020-01-27,2020,1,27,South Australia,Australia,Other,0,-34.9285,138.6007
+2020-01-28,2020,1,28,South Australia,Australia,Other,0,-34.9285,138.6007
+2020-01-29,2020,1,29,South Australia,Australia,Other,0,-34.9285,138.6007
+2020-01-30,2020,1,30,South Australia,Australia,Other,0,-34.9285,138.6007
+2020-01-31,2020,1,31,South Australia,Australia,Other,0,-34.9285,138.6007
+2020-02-01,2020,2,1,South Australia,Australia,Other,2,-34.9285,138.6007
+2020-02-02,2020,2,2,South Australia,Australia,Other,2,-34.9285,138.6007
+2020-02-03,2020,2,3,South Australia,Australia,Other,2,-34.9285,138.6007
+2020-02-04,2020,2,4,South Australia,Australia,Other,2,-34.9285,138.6007
+2020-02-05,2020,2,5,South Australia,Australia,Other,2,-34.9285,138.6007
+2020-02-06,2020,2,6,South Australia,Australia,Other,2,-34.9285,138.6007
+2020-02-07,2020,2,7,South Australia,Australia,Other,2,-34.9285,138.6007
+2020-02-08,2020,2,8,South Australia,Australia,Other,2,-34.9285,138.6007
+2020-02-09,2020,2,9,South Australia,Australia,Other,2,-34.9285,138.6007
+2020-02-10,2020,2,10,South Australia,Australia,Other,2,-34.9285,138.6007
+2020-01-21,2020,1,21,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-01-22,2020,1,22,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-01-23,2020,1,23,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-01-24,2020,1,24,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-01-25,2020,1,25,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-01-26,2020,1,26,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-01-27,2020,1,27,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-01-28,2020,1,28,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-01-29,2020,1,29,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-01-30,2020,1,30,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-01-31,2020,1,31,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-02-01,2020,2,1,"Boston, MA",US,Other,0,42.3601,-71.0589
+2020-02-02,2020,2,2,"Boston, MA",US,Other,1,42.3601,-71.0589
+2020-02-03,2020,2,3,"Boston, MA",US,Other,1,42.3601,-71.0589
+2020-02-04,2020,2,4,"Boston, MA",US,Other,1,42.3601,-71.0589
+2020-02-05,2020,2,5,"Boston, MA",US,Other,1,42.3601,-71.0589
+2020-02-06,2020,2,6,"Boston, MA",US,Other,1,42.3601,-71.0589
+2020-02-07,2020,2,7,"Boston, MA",US,Other,1,42.3601,-71.0589
+2020-02-08,2020,2,8,"Boston, MA",US,Other,1,42.3601,-71.0589
+2020-02-09,2020,2,9,"Boston, MA",US,Other,1,42.3601,-71.0589
+2020-02-10,2020,2,10,"Boston, MA",US,Other,1,42.3601,-71.0589
+2020-01-21,2020,1,21,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-01-22,2020,1,22,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-01-23,2020,1,23,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-01-24,2020,1,24,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-01-25,2020,1,25,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-01-26,2020,1,26,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-01-27,2020,1,27,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-01-28,2020,1,28,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-01-29,2020,1,29,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-01-30,2020,1,30,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-01-31,2020,1,31,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-02-01,2020,2,1,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-02-02,2020,2,2,"San Benito, CA",US,Other,0,36.5761,-120.9876
+2020-02-03,2020,2,3,"San Benito, CA",US,Other,2,36.5761,-120.9876
+2020-02-04,2020,2,4,"San Benito, CA",US,Other,2,36.5761,-120.9876
+2020-02-05,2020,2,5,"San Benito, CA",US,Other,2,36.5761,-120.9876
+2020-02-06,2020,2,6,"San Benito, CA",US,Other,2,36.5761,-120.9876
+2020-02-07,2020,2,7,"San Benito, CA",US,Other,2,36.5761,-120.9876
+2020-02-08,2020,2,8,"San Benito, CA",US,Other,2,36.5761,-120.9876
+2020-02-09,2020,2,9,"San Benito, CA",US,Other,2,36.5761,-120.9876
+2020-02-10,2020,2,10,"San Benito, CA",US,Other,2,36.5761,-120.9876
+2020-01-21,2020,1,21,NA,Belgium,Other,0,50.5039,4.4699
+2020-01-22,2020,1,22,NA,Belgium,Other,0,50.5039,4.4699
+2020-01-23,2020,1,23,NA,Belgium,Other,0,50.5039,4.4699
+2020-01-24,2020,1,24,NA,Belgium,Other,0,50.5039,4.4699
+2020-01-25,2020,1,25,NA,Belgium,Other,0,50.5039,4.4699
+2020-01-26,2020,1,26,NA,Belgium,Other,0,50.5039,4.4699
+2020-01-27,2020,1,27,NA,Belgium,Other,0,50.5039,4.4699
+2020-01-28,2020,1,28,NA,Belgium,Other,0,50.5039,4.4699
+2020-01-29,2020,1,29,NA,Belgium,Other,0,50.5039,4.4699
+2020-01-30,2020,1,30,NA,Belgium,Other,0,50.5039,4.4699
+2020-01-31,2020,1,31,NA,Belgium,Other,0,50.5039,4.4699
+2020-02-01,2020,2,1,NA,Belgium,Other,0,50.5039,4.4699
+2020-02-02,2020,2,2,NA,Belgium,Other,0,50.5039,4.4699
+2020-02-03,2020,2,3,NA,Belgium,Other,0,50.5039,4.4699
+2020-02-04,2020,2,4,NA,Belgium,Other,1,50.5039,4.4699
+2020-02-05,2020,2,5,NA,Belgium,Other,1,50.5039,4.4699
+2020-02-06,2020,2,6,NA,Belgium,Other,1,50.5039,4.4699
+2020-02-07,2020,2,7,NA,Belgium,Other,1,50.5039,4.4699
+2020-02-08,2020,2,8,NA,Belgium,Other,1,50.5039,4.4699
+2020-02-09,2020,2,9,NA,Belgium,Other,1,50.5039,4.4699
+2020-02-10,2020,2,10,NA,Belgium,Other,1,50.5039,4.4699
+2020-01-21,2020,1,21,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-01-22,2020,1,22,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-01-23,2020,1,23,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-01-24,2020,1,24,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-01-25,2020,1,25,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-01-26,2020,1,26,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-01-27,2020,1,27,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-01-28,2020,1,28,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-01-29,2020,1,29,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-01-30,2020,1,30,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-01-31,2020,1,31,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-02-01,2020,2,1,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-02-02,2020,2,2,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-02-03,2020,2,3,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-02-04,2020,2,4,"Madison, WI",US,Other,0,43.0731,-89.4012
+2020-02-05,2020,2,5,"Madison, WI",US,Other,1,43.0731,-89.4012
+2020-02-06,2020,2,6,"Madison, WI",US,Other,1,43.0731,-89.4012
+2020-02-07,2020,2,7,"Madison, WI",US,Other,1,43.0731,-89.4012
+2020-02-08,2020,2,8,"Madison, WI",US,Other,1,43.0731,-89.4012
+2020-02-09,2020,2,9,"Madison, WI",US,Other,1,43.0731,-89.4012
+2020-02-10,2020,2,10,"Madison, WI",US,Other,1,43.0731,-89.4012
+2020-01-21,2020,1,21,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-01-22,2020,1,22,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-01-23,2020,1,23,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-01-24,2020,1,24,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-01-25,2020,1,25,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-01-26,2020,1,26,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-01-27,2020,1,27,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-01-28,2020,1,28,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-01-29,2020,1,29,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-01-30,2020,1,30,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-01-31,2020,1,31,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-02-01,2020,2,1,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-02-02,2020,2,2,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-02-03,2020,2,3,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-02-04,2020,2,4,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-02-05,2020,2,5,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-02-06,2020,2,6,Cruise Ship,Others,Other,0,35.4437,129.638
+2020-02-07,2020,2,7,Cruise Ship,Others,Other,61,35.4437,129.638
+2020-02-08,2020,2,8,Cruise Ship,Others,Other,61,35.4437,129.638
+2020-02-09,2020,2,9,Cruise Ship,Others,Other,64,35.4437,129.638
+2020-02-10,2020,2,10,Cruise Ship,Others,Other,135,35.4437,129.638

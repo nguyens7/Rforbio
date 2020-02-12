@@ -1,0 +1,138 @@
+---
+title: "01_babynames"
+output: html_notebook
+---
+
+# Introduction
+This is an introduction to data analysis using the dplyr package which is part of the tidyverse.  We will learn how to filter out data of interest, aggregrate, and visualize babyname data from the Social Security Administration.
+
+# Shorcuts
+`ctrl/cmd + shift + enter` runs a cell  
+`ctrl/cmd + enter` runs highlighted code  
+`ctrl/cmd + alt + i` adds a new code chunk  
+`ctrl/cmd + shift + c` comments out code  
+`alt + -` <- assignment operator  
+
+```{r}
+library(babynames)
+library(tidyverse)
+```
+
+```{r}
+df <- babynames
+
+df
+```
+
+```{r}
+df %>%
+  filter(name == "Michael")
+
+df %>%
+  filter(name == "Mike")
+```
+
+
+```{r}
+mary <- df %>%
+  filter(name == "Mary")
+mary
+
+mary %>%
+  ggplot(aes(x = year, y = n, color = sex))+
+  geom_line()
+```
+
+Try filtering your name!
+```{r}
+
+```
+
+
+Save a data frame of your  name!
+```{r}
+# write_csv(your_name, "your_name.csv")
+```
+
+
+# Saving plots
+```{r}
+# ggsave(plot = your_plot, "Your_plot_name.png",
+#        height = 4, width = 6, 
+#        dpi = 600, units = "in")
+```
+
+
+
+# Multiple entries  
+
+```{r}
+df %>% 
+  filter(name == "Keara" | name == "Bob" | name == "Anya")
+
+df %>% 
+  filter(name %in% c("Keara", "Bob", "Anya"))
+```
+
+
+# Multiple Criteria  
+
+```{r}
+df %>%
+  filter(name == "Sean"|name == "Shaun"|name == "Shawn") # '|' = or  ',' = and
+
+df %>% 
+  filter(name %in% c("Sean","Shaun","Shawn"))
+
+df %>%
+  filter(name == "Sean"|name == "Shaun"|name == "Shawn" & year== "1980") 
+
+df %>%
+  filter(year== "1980" & name == "Sean"|year== "1980" & name == "Shaun"| year== "1980" & name == "Shawn") 
+
+df %>%
+  filter(year== "1980" & name %in% c("Sean","Shaun","Shawn"))
+```
+
+
+# Facetting
+We can `split` plots by using the `facet_wrap()` command.
+
+```{r}
+
+df %>%
+  filter(name == "Sean"| name == "Bob"|name == "Betty") %>%
+  ggplot(aes(x = year, y = n, color = name)) +
+  geom_line() +
+  facet_wrap(~sex)
+
+```
+
+
+```{r}
+r_workshop_names <- c("Karen","Andrew", "Samantha")
+
+df %>% 
+  filter( name %in% r_workshop_names) %>% 
+  ggplot(aes(x = year , y = n, color = name))+
+  geom_line()+
+  facet_grid(~sex)
+```
+
+
+
+# Aggregating Data
+`group_by`and `summarize`/`summarise` can be used to condense data within a group.
+```{r}
+df
+  
+```
+
+```{r}
+# ggsave(plot = babynames_plot, "SSA_babynames.png",
+#        height = 4, width = 6,
+#        dpi = 600, units = "in")
+```
+
+
+
